@@ -20,7 +20,7 @@ Base simulada com aproximadamente 1000 registros de atendimentos.
 - README.md → Descrição do projeto
 
 ## 👥 Integrantes
-(Colocar nomes aqui)
+Matheus Biazon Trigo
 
 ## 🔗 Link
-(Inserir link do repositório após publicação)
+
