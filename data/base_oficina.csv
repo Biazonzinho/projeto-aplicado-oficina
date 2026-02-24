@@ -1,0 +1,1001 @@
+id_servico,data_atendimento,cliente,tipo_servico,valor_servico,custo_pecas,tempo_execucao_horas,mecanico_responsavel,forma_pagamento,status_servico
+1,2025-02-26,Cliente_189,Diagnóstico,1031,160,3.2,Pedro,Dinheiro,Concluído
+2,2025-11-27,Cliente_104,Alinhamento,1229,730,2.8,Carlos,Dinheiro,Concluído
+3,2025-09-23,Cliente_136,Suspensão,805,275,1.3,Carlos,Dinheiro,Concluído
+4,2025-01-11,Cliente_49,Troca de Óleo,700,691,1.6,Carlos,Cartão,Concluído
+5,2025-06-17,Cliente_150,Freio,918,171,1.2,Pedro,Cartão,Concluído
+6,2025-08-05,Cliente_132,Suspensão,679,759,1.8,João,Cartão,Cancelado
+7,2025-06-24,Cliente_261,Freio,995,415,1.3,Pedro,Pix,Cancelado
+8,2025-02-17,Cliente_75,Freio,745,326,2.8,João,Dinheiro,Concluído
+9,2025-05-26,Cliente_290,Suspensão,664,536,3.2,Carlos,Pix,Cancelado
+10,2025-11-05,Cliente_46,Diagnóstico,1312,645,2.8,Pedro,Pix,Concluído
+11,2025-09-29,Cliente_97,Troca de Óleo,1175,418,3.1,Pedro,Cartão,Cancelado
+12,2025-09-23,Cliente_115,Suspensão,1208,795,3.9,Pedro,Dinheiro,Cancelado
+13,2025-09-19,Cliente_50,Diagnóstico,627,569,2.4,Carlos,Pix,Concluído
+14,2025-07-22,Cliente_256,Alinhamento,805,448,1.8,João,Cartão,Concluído
+15,2025-08-11,Cliente_192,Freio,1119,57,1.9,Carlos,Dinheiro,Cancelado
+16,2025-02-28,Cliente_273,Troca de Óleo,1452,249,4.5,Marcos,Pix,Concluído
+17,2025-09-12,Cliente_94,Freio,521,338,1.2,Marcos,Pix,Concluído
+18,2025-05-25,Cliente_237,Suspensão,796,477,2.6,João,Dinheiro,Cancelado
+19,2025-07-11,Cliente_99,Revisão,1025,318,3.2,Carlos,Pix,Cancelado
+20,2025-09-27,Cliente_80,Diagnóstico,782,374,4.8,Marcos,Cartão,Cancelado
+21,2025-10-10,Cliente_18,Diagnóstico,390,329,1.8,João,Dinheiro,Cancelado
+22,2025-11-28,Cliente_128,Freio,408,785,3.8,Pedro,Pix,Concluído
+23,2025-04-01,Cliente_11,Diagnóstico,1167,570,3.5,João,Dinheiro,Cancelado
+24,2025-08-03,Cliente_144,Troca de Óleo,269,503,1.2,Carlos,Cartão,Concluído
+25,2025-06-06,Cliente_128,Troca de Óleo,965,692,3.3,João,Dinheiro,Concluído
+26,2025-12-09,Cliente_101,Diagnóstico,1060,124,2.6,Carlos,Pix,Concluído
+27,2025-06-18,Cliente_11,Diagnóstico,696,370,3.7,João,Dinheiro,Concluído
+28,2025-03-25,Cliente_252,Suspensão,338,562,3.7,João,Cartão,Concluído
+29,2025-03-04,Cliente_91,Suspensão,1469,705,4.8,João,Dinheiro,Concluído
+30,2025-06-27,Cliente_220,Diagnóstico,1159,437,1.0,Carlos,Cartão,Cancelado
+31,2025-11-22,Cliente_108,Troca de Óleo,353,158,2.6,Marcos,Pix,Cancelado
+32,2025-11-28,Cliente_44,Troca de Óleo,1250,89,2.7,Marcos,Dinheiro,Concluído
+33,2025-04-05,Cliente_192,Freio,1022,436,1.5,Carlos,Dinheiro,Cancelado
+34,2025-09-08,Cliente_207,Suspensão,814,679,4.5,Pedro,Pix,Concluído
+35,2025-09-30,Cliente_7,Freio,323,118,1.5,Marcos,Dinheiro,Concluído
+36,2025-02-27,Cliente_15,Alinhamento,459,282,3.0,João,Cartão,Concluído
+37,2025-12-31,Cliente_239,Troca de Óleo,308,400,1.1,João,Pix,Cancelado
+38,2025-06-02,Cliente_87,Suspensão,569,531,4.3,João,Pix,Concluído
+39,2025-01-27,Cliente_177,Suspensão,1398,466,3.8,Marcos,Cartão,Cancelado
+40,2025-08-02,Cliente_202,Suspensão,674,488,3.2,Marcos,Dinheiro,Concluído
+41,2025-12-21,Cliente_110,Suspensão,1188,354,3.9,Pedro,Pix,Concluído
+42,2025-09-03,Cliente_232,Revisão,1450,369,3.8,Carlos,Cartão,Cancelado
+43,2025-09-30,Cliente_119,Troca de Óleo,840,296,1.3,Pedro,Cartão,Cancelado
+44,2025-10-31,Cliente_145,Alinhamento,1002,321,2.6,João,Cartão,Concluído
+45,2025-06-06,Cliente_164,Diagnóstico,565,64,4.4,Marcos,Cartão,Concluído
+46,2025-04-27,Cliente_149,Diagnóstico,669,106,1.6,Carlos,Pix,Concluído
+47,2025-02-24,Cliente_86,Freio,1080,614,1.9,João,Pix,Cancelado
+48,2025-12-19,Cliente_19,Revisão,1483,678,1.9,Carlos,Cartão,Cancelado
+49,2025-12-10,Cliente_134,Alinhamento,1464,338,4.0,Pedro,Cartão,Concluído
+50,2025-04-05,Cliente_166,Freio,564,80,4.4,João,Cartão,Cancelado
+51,2025-06-11,Cliente_207,Suspensão,1298,266,2.1,Marcos,Pix,Concluído
+52,2025-08-06,Cliente_35,Suspensão,360,87,1.4,Marcos,Cartão,Concluído
+53,2025-02-17,Cliente_180,Revisão,423,621,2.7,João,Cartão,Concluído
+54,2025-08-17,Cliente_118,Alinhamento,702,292,1.6,João,Dinheiro,Cancelado
+55,2025-12-05,Cliente_116,Freio,1254,454,1.5,Marcos,Pix,Cancelado
+56,2025-09-20,Cliente_166,Alinhamento,724,309,2.2,Carlos,Pix,Concluído
+57,2025-09-12,Cliente_251,Alinhamento,1485,203,4.3,João,Cartão,Cancelado
+58,2025-08-31,Cliente_124,Revisão,845,518,2.5,João,Cartão,Cancelado
+59,2025-09-12,Cliente_70,Revisão,527,478,1.5,Pedro,Cartão,Concluído
+60,2025-11-30,Cliente_195,Alinhamento,363,794,3.8,João,Cartão,Cancelado
+61,2025-09-28,Cliente_196,Freio,412,539,2.9,Marcos,Cartão,Concluído
+62,2025-01-03,Cliente_280,Diagnóstico,1272,171,1.0,João,Dinheiro,Concluído
+63,2025-08-31,Cliente_180,Troca de Óleo,1144,346,2.8,João,Dinheiro,Concluído
+64,2025-11-26,Cliente_24,Alinhamento,608,501,1.7,Pedro,Pix,Concluído
+65,2025-02-14,Cliente_176,Troca de Óleo,255,265,3.3,Marcos,Cartão,Cancelado
+66,2025-02-19,Cliente_53,Diagnóstico,1355,402,4.1,Marcos,Cartão,Concluído
+67,2025-04-27,Cliente_294,Freio,789,236,4.9,Carlos,Pix,Cancelado
+68,2025-07-13,Cliente_41,Troca de Óleo,1261,349,2.4,Carlos,Dinheiro,Cancelado
+69,2025-07-13,Cliente_232,Diagnóstico,1337,99,2.8,João,Dinheiro,Cancelado
+70,2025-04-05,Cliente_217,Troca de Óleo,276,623,2.6,Carlos,Dinheiro,Cancelado
+71,2025-04-18,Cliente_167,Suspensão,332,168,3.2,Pedro,Dinheiro,Cancelado
+72,2025-10-15,Cliente_85,Revisão,1190,790,3.0,Carlos,Cartão,Cancelado
+73,2025-12-16,Cliente_35,Suspensão,1033,669,1.2,Marcos,Pix,Cancelado
+74,2025-03-18,Cliente_76,Suspensão,1112,692,3.8,Pedro,Pix,Cancelado
+75,2025-01-12,Cliente_165,Revisão,1448,561,3.8,Pedro,Cartão,Cancelado
+76,2025-05-07,Cliente_182,Freio,962,731,4.4,Pedro,Dinheiro,Concluído
+77,2025-11-30,Cliente_79,Troca de Óleo,551,298,2.2,Carlos,Pix,Cancelado
+78,2025-12-26,Cliente_36,Revisão,512,601,1.1,Marcos,Dinheiro,Cancelado
+79,2025-06-08,Cliente_185,Diagnóstico,944,253,2.6,Pedro,Cartão,Concluído
+80,2025-12-10,Cliente_21,Alinhamento,648,515,4.2,João,Cartão,Concluído
+81,2025-08-29,Cliente_100,Alinhamento,324,156,2.8,Carlos,Dinheiro,Cancelado
+82,2025-12-21,Cliente_47,Freio,1370,255,3.6,Carlos,Pix,Cancelado
+83,2025-06-18,Cliente_214,Alinhamento,1209,67,4.7,Carlos,Cartão,Concluído
+84,2025-12-04,Cliente_298,Diagnóstico,205,417,3.9,Pedro,Pix,Concluído
+85,2025-07-18,Cliente_18,Freio,742,579,4.7,João,Pix,Concluído
+86,2025-01-10,Cliente_288,Suspensão,466,92,2.7,Carlos,Pix,Cancelado
+87,2025-05-06,Cliente_243,Freio,1247,173,4.4,João,Pix,Cancelado
+88,2025-07-09,Cliente_236,Troca de Óleo,164,362,4.9,Carlos,Cartão,Concluído
+89,2025-08-20,Cliente_297,Alinhamento,1193,791,5.0,João,Cartão,Concluído
+90,2025-03-03,Cliente_284,Troca de Óleo,1489,267,3.8,Carlos,Dinheiro,Concluído
+91,2025-02-05,Cliente_150,Revisão,711,520,1.4,Carlos,Dinheiro,Concluído
+92,2025-08-20,Cliente_146,Diagnóstico,482,470,3.2,Marcos,Pix,Concluído
+93,2025-03-17,Cliente_135,Suspensão,293,99,1.7,João,Pix,Cancelado
+94,2025-11-28,Cliente_224,Alinhamento,431,378,4.4,Carlos,Dinheiro,Cancelado
+95,2025-11-02,Cliente_284,Freio,347,234,4.0,João,Cartão,Concluído
+96,2025-09-30,Cliente_284,Suspensão,543,418,1.4,Carlos,Dinheiro,Concluído
+97,2025-05-09,Cliente_20,Alinhamento,629,423,1.6,João,Dinheiro,Cancelado
+98,2025-10-20,Cliente_134,Diagnóstico,904,712,1.2,Carlos,Dinheiro,Concluído
+99,2025-04-26,Cliente_174,Diagnóstico,1145,654,1.9,João,Cartão,Concluído
+100,2025-10-04,Cliente_146,Suspensão,1471,61,3.5,Marcos,Pix,Concluído
+101,2025-11-05,Cliente_3,Troca de Óleo,1156,101,4.1,Marcos,Dinheiro,Cancelado
+102,2025-03-24,Cliente_104,Freio,1193,181,4.5,Pedro,Pix,Concluído
+103,2025-01-07,Cliente_128,Troca de Óleo,1156,83,4.0,João,Pix,Concluído
+104,2025-06-25,Cliente_256,Diagnóstico,1389,427,4.0,Carlos,Cartão,Cancelado
+105,2025-10-11,Cliente_40,Suspensão,916,400,1.0,Carlos,Dinheiro,Concluído
+106,2025-03-06,Cliente_57,Revisão,1040,596,1.8,Carlos,Pix,Concluído
+107,2025-10-27,Cliente_55,Revisão,439,470,4.5,Marcos,Cartão,Concluído
+108,2025-12-12,Cliente_282,Troca de Óleo,883,640,3.1,Pedro,Cartão,Concluído
+109,2025-11-28,Cliente_65,Alinhamento,951,354,2.9,Pedro,Dinheiro,Cancelado
+110,2025-01-26,Cliente_79,Alinhamento,1170,328,4.4,Marcos,Dinheiro,Concluído
+111,2025-11-28,Cliente_115,Suspensão,1473,655,5.0,Marcos,Cartão,Concluído
+112,2025-07-28,Cliente_128,Diagnóstico,783,766,2.3,Pedro,Cartão,Cancelado
+113,2025-08-07,Cliente_290,Diagnóstico,304,562,1.8,Marcos,Cartão,Concluído
+114,2025-05-01,Cliente_143,Alinhamento,1498,157,2.0,João,Cartão,Concluído
+115,2025-12-24,Cliente_102,Diagnóstico,158,621,3.7,Carlos,Dinheiro,Cancelado
+116,2025-07-31,Cliente_71,Freio,442,631,2.2,Pedro,Pix,Concluído
+117,2025-05-14,Cliente_41,Suspensão,240,99,2.3,Marcos,Cartão,Cancelado
+118,2025-06-02,Cliente_253,Troca de Óleo,911,320,2.5,Carlos,Pix,Cancelado
+119,2025-09-25,Cliente_83,Diagnóstico,515,464,3.6,João,Dinheiro,Cancelado
+120,2025-11-22,Cliente_83,Alinhamento,1155,661,3.4,Pedro,Pix,Cancelado
+121,2025-12-16,Cliente_215,Troca de Óleo,280,320,4.2,João,Pix,Cancelado
+122,2025-08-27,Cliente_180,Revisão,555,142,1.9,Marcos,Cartão,Cancelado
+123,2025-10-30,Cliente_49,Troca de Óleo,1056,543,3.4,Carlos,Pix,Concluído
+124,2025-03-10,Cliente_270,Revisão,1008,189,1.2,Pedro,Pix,Cancelado
+125,2025-11-22,Cliente_184,Suspensão,507,334,4.6,Marcos,Cartão,Concluído
+126,2025-03-24,Cliente_105,Troca de Óleo,1433,401,4.9,Carlos,Cartão,Cancelado
+127,2025-12-10,Cliente_226,Suspensão,422,362,2.6,Marcos,Pix,Concluído
+128,2025-04-27,Cliente_218,Diagnóstico,755,354,1.5,Marcos,Dinheiro,Cancelado
+129,2025-06-17,Cliente_256,Freio,191,296,1.3,Carlos,Dinheiro,Concluído
+130,2025-07-06,Cliente_32,Suspensão,610,765,2.2,João,Pix,Concluído
+131,2025-04-30,Cliente_256,Alinhamento,991,195,2.4,Pedro,Dinheiro,Concluído
+132,2025-05-01,Cliente_204,Revisão,199,151,4.6,Marcos,Pix,Cancelado
+133,2025-06-02,Cliente_168,Freio,678,715,1.4,Carlos,Dinheiro,Cancelado
+134,2025-04-15,Cliente_61,Suspensão,980,183,2.0,Marcos,Dinheiro,Concluído
+135,2025-02-06,Cliente_275,Revisão,1175,177,2.3,João,Dinheiro,Cancelado
+136,2025-07-11,Cliente_75,Alinhamento,987,314,3.8,Carlos,Dinheiro,Concluído
+137,2025-04-02,Cliente_300,Diagnóstico,1369,330,2.9,Marcos,Pix,Concluído
+138,2025-05-27,Cliente_24,Suspensão,1362,318,2.2,João,Pix,Concluído
+139,2025-09-17,Cliente_201,Diagnóstico,1453,570,2.6,Marcos,Dinheiro,Concluído
+140,2025-08-05,Cliente_258,Freio,1326,156,1.4,Pedro,Pix,Concluído
+141,2025-02-18,Cliente_104,Troca de Óleo,656,590,1.7,Pedro,Dinheiro,Cancelado
+142,2025-09-30,Cliente_97,Freio,1005,90,2.5,João,Cartão,Cancelado
+143,2025-03-16,Cliente_62,Freio,359,541,3.5,Carlos,Pix,Cancelado
+144,2025-07-25,Cliente_31,Diagnóstico,266,537,2.1,Carlos,Cartão,Cancelado
+145,2025-10-07,Cliente_146,Diagnóstico,1024,467,4.8,Marcos,Dinheiro,Cancelado
+146,2025-09-29,Cliente_60,Suspensão,1354,429,4.5,Pedro,Dinheiro,Cancelado
+147,2025-06-05,Cliente_106,Diagnóstico,1190,167,3.5,João,Dinheiro,Cancelado
+148,2025-03-04,Cliente_18,Diagnóstico,1288,580,1.0,Carlos,Cartão,Concluído
+149,2025-01-22,Cliente_81,Alinhamento,519,339,2.4,João,Cartão,Cancelado
+150,2025-03-06,Cliente_67,Troca de Óleo,1353,371,2.1,Marcos,Cartão,Concluído
+151,2025-09-13,Cliente_247,Revisão,924,521,2.3,Carlos,Dinheiro,Cancelado
+152,2025-08-09,Cliente_88,Revisão,727,72,2.3,Pedro,Dinheiro,Concluído
+153,2025-05-18,Cliente_48,Diagnóstico,614,226,2.0,Pedro,Cartão,Concluído
+154,2025-03-19,Cliente_228,Troca de Óleo,350,52,4.6,João,Dinheiro,Cancelado
+155,2025-11-10,Cliente_42,Diagnóstico,238,280,4.3,Pedro,Dinheiro,Concluído
+156,2025-06-26,Cliente_154,Troca de Óleo,1237,693,3.9,João,Pix,Concluído
+157,2025-03-11,Cliente_120,Troca de Óleo,861,459,2.8,Marcos,Pix,Cancelado
+158,2025-09-28,Cliente_60,Revisão,186,523,2.8,João,Dinheiro,Cancelado
+159,2025-01-15,Cliente_136,Revisão,687,244,2.9,Pedro,Pix,Cancelado
+160,2025-01-29,Cliente_180,Diagnóstico,317,683,4.6,Carlos,Cartão,Concluído
+161,2025-04-11,Cliente_68,Diagnóstico,1096,719,4.6,Marcos,Pix,Cancelado
+162,2025-12-11,Cliente_127,Alinhamento,1055,748,2.5,Carlos,Dinheiro,Concluído
+163,2025-12-17,Cliente_174,Suspensão,1389,449,2.5,Marcos,Cartão,Cancelado
+164,2025-12-27,Cliente_277,Alinhamento,228,781,1.2,Carlos,Dinheiro,Concluído
+165,2025-05-28,Cliente_266,Suspensão,1160,672,4.3,Carlos,Cartão,Cancelado
+166,2025-05-15,Cliente_254,Revisão,1119,340,2.8,Marcos,Dinheiro,Cancelado
+167,2025-03-31,Cliente_156,Alinhamento,1068,138,1.2,Carlos,Pix,Cancelado
+168,2025-08-02,Cliente_30,Freio,1241,766,2.4,Marcos,Pix,Cancelado
+169,2025-05-13,Cliente_1,Freio,944,80,1.4,Marcos,Dinheiro,Cancelado
+170,2025-04-25,Cliente_232,Suspensão,545,379,2.7,Pedro,Cartão,Concluído
+171,2025-02-05,Cliente_270,Freio,897,726,1.3,Carlos,Pix,Cancelado
+172,2025-06-16,Cliente_22,Diagnóstico,374,447,1.9,Marcos,Dinheiro,Concluído
+173,2025-04-23,Cliente_259,Revisão,1210,443,1.7,Carlos,Dinheiro,Cancelado
+174,2025-04-02,Cliente_263,Revisão,738,787,4.0,Carlos,Cartão,Concluído
+175,2025-11-25,Cliente_258,Alinhamento,526,352,2.1,João,Dinheiro,Concluído
+176,2025-01-30,Cliente_206,Alinhamento,809,284,3.6,Carlos,Pix,Concluído
+177,2025-04-08,Cliente_1,Suspensão,758,114,1.1,João,Pix,Concluído
+178,2025-03-08,Cliente_225,Freio,650,494,1.1,Carlos,Dinheiro,Concluído
+179,2025-05-27,Cliente_195,Revisão,1444,512,3.4,Marcos,Dinheiro,Cancelado
+180,2025-07-15,Cliente_101,Troca de Óleo,237,291,3.9,Marcos,Cartão,Cancelado
+181,2025-12-21,Cliente_48,Suspensão,599,693,3.3,Pedro,Cartão,Cancelado
+182,2025-12-28,Cliente_170,Alinhamento,750,467,3.3,Pedro,Dinheiro,Cancelado
+183,2025-12-14,Cliente_227,Diagnóstico,227,373,3.9,Marcos,Cartão,Cancelado
+184,2025-04-17,Cliente_204,Troca de Óleo,1238,473,4.4,Pedro,Cartão,Concluído
+185,2025-12-12,Cliente_205,Revisão,1443,528,2.0,Marcos,Pix,Cancelado
+186,2025-02-23,Cliente_244,Freio,1001,340,4.5,Carlos,Cartão,Cancelado
+187,2025-07-17,Cliente_288,Suspensão,456,392,4.0,Carlos,Pix,Concluído
+188,2025-09-12,Cliente_160,Alinhamento,222,375,4.2,Pedro,Pix,Cancelado
+189,2025-12-26,Cliente_69,Freio,267,484,3.8,Pedro,Cartão,Cancelado
+190,2025-12-19,Cliente_22,Alinhamento,1313,381,2.8,Pedro,Pix,Concluído
+191,2025-03-29,Cliente_164,Suspensão,1057,707,4.5,Marcos,Pix,Concluído
+192,2025-09-03,Cliente_123,Diagnóstico,1217,472,1.8,João,Dinheiro,Concluído
+193,2025-11-20,Cliente_223,Diagnóstico,857,218,1.9,João,Pix,Cancelado
+194,2025-10-29,Cliente_229,Revisão,154,395,4.2,Pedro,Cartão,Concluído
+195,2025-01-14,Cliente_297,Alinhamento,465,648,4.0,João,Cartão,Cancelado
+196,2025-12-19,Cliente_155,Revisão,309,437,4.5,Carlos,Cartão,Cancelado
+197,2025-03-21,Cliente_16,Diagnóstico,1446,637,3.0,Carlos,Cartão,Concluído
+198,2025-05-19,Cliente_148,Alinhamento,264,798,3.5,Carlos,Pix,Concluído
+199,2025-10-25,Cliente_206,Revisão,482,782,1.4,João,Cartão,Concluído
+200,2025-10-27,Cliente_201,Revisão,740,326,2.5,Marcos,Cartão,Concluído
+201,2025-01-02,Cliente_166,Diagnóstico,1276,443,3.0,Marcos,Dinheiro,Cancelado
+202,2025-12-24,Cliente_17,Troca de Óleo,661,61,1.8,Carlos,Cartão,Concluído
+203,2025-02-14,Cliente_54,Troca de Óleo,759,362,1.6,João,Pix,Cancelado
+204,2025-04-03,Cliente_22,Diagnóstico,968,626,4.3,Marcos,Cartão,Concluído
+205,2025-12-21,Cliente_93,Troca de Óleo,240,395,1.6,Marcos,Pix,Cancelado
+206,2025-09-25,Cliente_245,Troca de Óleo,1164,771,3.3,Carlos,Pix,Cancelado
+207,2025-08-18,Cliente_279,Freio,1234,358,4.8,Carlos,Cartão,Cancelado
+208,2025-05-09,Cliente_24,Diagnóstico,283,759,3.5,Marcos,Cartão,Cancelado
+209,2025-01-02,Cliente_217,Revisão,1231,296,4.6,Carlos,Dinheiro,Cancelado
+210,2025-01-15,Cliente_120,Alinhamento,816,511,4.8,Carlos,Cartão,Concluído
+211,2025-05-27,Cliente_59,Troca de Óleo,1488,282,3.5,Pedro,Pix,Cancelado
+212,2025-11-11,Cliente_183,Suspensão,1177,438,2.7,João,Cartão,Concluído
+213,2025-09-14,Cliente_147,Suspensão,361,538,1.1,Marcos,Dinheiro,Cancelado
+214,2025-03-12,Cliente_278,Revisão,186,56,4.9,Marcos,Cartão,Concluído
+215,2025-12-15,Cliente_272,Troca de Óleo,1445,171,1.3,Marcos,Dinheiro,Cancelado
+216,2025-01-10,Cliente_217,Diagnóstico,1365,506,2.2,Marcos,Dinheiro,Cancelado
+217,2025-10-08,Cliente_16,Freio,296,152,2.6,João,Dinheiro,Concluído
+218,2025-06-17,Cliente_254,Diagnóstico,1494,462,4.8,Pedro,Cartão,Cancelado
+219,2025-04-10,Cliente_163,Revisão,371,620,1.8,Carlos,Dinheiro,Concluído
+220,2025-09-17,Cliente_288,Freio,913,569,2.3,Carlos,Pix,Cancelado
+221,2025-09-29,Cliente_15,Alinhamento,167,220,4.6,João,Pix,Cancelado
+222,2025-09-25,Cliente_186,Diagnóstico,967,748,1.7,Pedro,Dinheiro,Cancelado
+223,2025-04-01,Cliente_219,Freio,1228,258,3.8,Marcos,Pix,Cancelado
+224,2025-08-01,Cliente_6,Alinhamento,454,149,4.4,Carlos,Cartão,Cancelado
+225,2025-04-26,Cliente_26,Troca de Óleo,613,467,2.8,Pedro,Pix,Concluído
+226,2025-08-24,Cliente_187,Revisão,347,719,3.7,Carlos,Pix,Concluído
+227,2025-08-31,Cliente_1,Diagnóstico,201,549,4.7,Marcos,Pix,Concluído
+228,2025-10-22,Cliente_41,Troca de Óleo,1164,245,2.3,João,Dinheiro,Concluído
+229,2025-07-10,Cliente_139,Revisão,1346,109,1.9,Pedro,Pix,Cancelado
+230,2025-09-15,Cliente_97,Diagnóstico,1333,505,4.9,João,Pix,Cancelado
+231,2025-08-13,Cliente_242,Troca de Óleo,1469,714,3.6,Pedro,Pix,Concluído
+232,2025-11-06,Cliente_166,Diagnóstico,1498,424,1.5,Pedro,Dinheiro,Cancelado
+233,2025-05-12,Cliente_214,Freio,316,624,4.9,Carlos,Cartão,Cancelado
+234,2025-03-12,Cliente_258,Alinhamento,168,583,4.5,Pedro,Cartão,Concluído
+235,2025-11-30,Cliente_169,Diagnóstico,699,162,1.8,João,Cartão,Cancelado
+236,2025-02-03,Cliente_172,Alinhamento,373,267,4.8,Carlos,Cartão,Cancelado
+237,2025-07-04,Cliente_124,Freio,1419,783,3.6,Marcos,Pix,Cancelado
+238,2025-03-27,Cliente_193,Revisão,847,593,1.7,Pedro,Pix,Concluído
+239,2025-07-23,Cliente_82,Diagnóstico,922,106,4.1,Carlos,Cartão,Concluído
+240,2025-09-17,Cliente_89,Alinhamento,430,713,3.4,Marcos,Cartão,Cancelado
+241,2025-10-01,Cliente_233,Suspensão,273,550,1.9,João,Pix,Cancelado
+242,2025-09-05,Cliente_185,Freio,897,265,2.1,João,Pix,Concluído
+243,2025-10-23,Cliente_3,Diagnóstico,452,649,3.5,Marcos,Dinheiro,Cancelado
+244,2025-05-16,Cliente_161,Diagnóstico,555,111,4.8,Carlos,Cartão,Cancelado
+245,2025-01-04,Cliente_120,Alinhamento,1216,615,2.5,Marcos,Pix,Concluído
+246,2025-09-02,Cliente_232,Diagnóstico,218,152,2.2,João,Pix,Concluído
+247,2025-02-20,Cliente_18,Freio,286,184,3.4,Marcos,Dinheiro,Concluído
+248,2025-05-12,Cliente_187,Alinhamento,1477,720,3.7,Pedro,Pix,Concluído
+249,2025-04-21,Cliente_111,Alinhamento,196,480,4.1,Pedro,Cartão,Cancelado
+250,2025-03-07,Cliente_107,Revisão,437,314,2.2,Carlos,Cartão,Cancelado
+251,2025-07-13,Cliente_19,Troca de Óleo,1223,270,2.4,Pedro,Pix,Cancelado
+252,2025-07-16,Cliente_39,Alinhamento,549,389,1.0,Pedro,Dinheiro,Concluído
+253,2025-09-27,Cliente_6,Alinhamento,1461,530,4.5,João,Dinheiro,Cancelado
+254,2025-07-20,Cliente_250,Revisão,1237,643,2.9,João,Pix,Concluído
+255,2025-12-31,Cliente_26,Alinhamento,1289,89,2.3,Marcos,Cartão,Concluído
+256,2025-12-11,Cliente_13,Troca de Óleo,1101,284,3.2,Carlos,Cartão,Concluído
+257,2025-06-02,Cliente_37,Suspensão,1025,761,4.5,Pedro,Cartão,Concluído
+258,2025-06-03,Cliente_221,Revisão,1064,84,4.2,Pedro,Cartão,Cancelado
+259,2025-10-25,Cliente_92,Troca de Óleo,1103,670,4.2,Pedro,Cartão,Cancelado
+260,2025-07-15,Cliente_62,Troca de Óleo,369,230,4.9,Carlos,Dinheiro,Concluído
+261,2025-01-24,Cliente_247,Troca de Óleo,338,389,2.8,Carlos,Pix,Cancelado
+262,2025-06-20,Cliente_188,Troca de Óleo,1029,586,4.2,Marcos,Dinheiro,Concluído
+263,2025-03-19,Cliente_265,Alinhamento,661,566,3.5,Marcos,Pix,Cancelado
+264,2025-11-01,Cliente_227,Freio,1454,357,4.4,Marcos,Pix,Concluído
+265,2025-09-17,Cliente_55,Alinhamento,962,620,3.9,Carlos,Dinheiro,Cancelado
+266,2025-08-02,Cliente_33,Revisão,985,98,4.4,Pedro,Cartão,Concluído
+267,2025-07-17,Cliente_108,Freio,514,182,1.1,Pedro,Cartão,Concluído
+268,2025-07-22,Cliente_74,Revisão,303,429,4.8,Carlos,Pix,Concluído
+269,2025-01-14,Cliente_267,Suspensão,246,328,1.8,João,Pix,Concluído
+270,2025-02-16,Cliente_175,Troca de Óleo,1177,344,1.7,Carlos,Pix,Concluído
+271,2025-06-17,Cliente_137,Alinhamento,1285,106,2.4,João,Cartão,Cancelado
+272,2025-03-08,Cliente_248,Freio,1005,677,4.7,Pedro,Pix,Concluído
+273,2025-09-29,Cliente_116,Suspensão,175,696,4.8,Pedro,Dinheiro,Cancelado
+274,2025-08-19,Cliente_99,Diagnóstico,1278,284,1.4,Pedro,Dinheiro,Cancelado
+275,2025-05-23,Cliente_63,Alinhamento,392,276,2.5,Carlos,Cartão,Concluído
+276,2025-02-03,Cliente_6,Freio,1023,791,3.3,Carlos,Cartão,Concluído
+277,2025-05-11,Cliente_81,Revisão,329,524,2.7,João,Cartão,Concluído
+278,2025-01-20,Cliente_238,Troca de Óleo,378,242,3.8,Marcos,Cartão,Cancelado
+279,2025-07-28,Cliente_158,Suspensão,1130,310,4.9,Carlos,Pix,Concluído
+280,2025-08-11,Cliente_224,Alinhamento,511,435,4.5,Carlos,Cartão,Concluído
+281,2025-02-18,Cliente_245,Diagnóstico,613,452,4.2,Carlos,Pix,Concluído
+282,2025-06-17,Cliente_192,Suspensão,785,604,1.8,Carlos,Cartão,Cancelado
+283,2025-10-23,Cliente_276,Alinhamento,382,209,1.2,Pedro,Pix,Concluído
+284,2025-07-11,Cliente_171,Diagnóstico,690,787,2.2,Carlos,Pix,Cancelado
+285,2025-08-24,Cliente_260,Suspensão,242,500,4.3,Pedro,Cartão,Concluído
+286,2025-02-15,Cliente_227,Diagnóstico,1351,458,1.6,Marcos,Pix,Concluído
+287,2025-01-02,Cliente_196,Revisão,489,455,2.0,João,Dinheiro,Concluído
+288,2025-03-21,Cliente_93,Revisão,1226,137,4.0,Marcos,Pix,Cancelado
+289,2025-08-20,Cliente_183,Suspensão,1272,403,2.8,Pedro,Pix,Cancelado
+290,2025-07-04,Cliente_288,Suspensão,166,608,1.5,João,Cartão,Cancelado
+291,2025-07-29,Cliente_265,Revisão,572,599,2.0,João,Pix,Cancelado
+292,2025-05-31,Cliente_163,Diagnóstico,716,590,4.1,Pedro,Dinheiro,Cancelado
+293,2025-11-22,Cliente_232,Troca de Óleo,905,254,1.6,João,Dinheiro,Cancelado
+294,2025-06-02,Cliente_53,Revisão,1053,735,3.2,Carlos,Cartão,Cancelado
+295,2025-12-19,Cliente_166,Freio,244,286,2.7,Pedro,Cartão,Cancelado
+296,2025-08-09,Cliente_259,Revisão,521,641,2.7,Carlos,Pix,Cancelado
+297,2025-04-07,Cliente_233,Alinhamento,203,353,2.4,João,Pix,Concluído
+298,2025-09-16,Cliente_167,Diagnóstico,736,80,2.5,Pedro,Dinheiro,Concluído
+299,2025-09-20,Cliente_255,Diagnóstico,302,566,3.7,João,Pix,Concluído
+300,2025-08-05,Cliente_164,Troca de Óleo,527,316,1.2,Marcos,Dinheiro,Concluído
+301,2025-01-30,Cliente_41,Freio,636,83,3.2,Pedro,Dinheiro,Cancelado
+302,2025-12-30,Cliente_123,Troca de Óleo,501,67,1.1,Marcos,Dinheiro,Concluído
+303,2025-12-15,Cliente_236,Revisão,819,506,2.8,Carlos,Pix,Cancelado
+304,2025-03-01,Cliente_161,Revisão,660,168,2.8,Marcos,Cartão,Cancelado
+305,2025-02-05,Cliente_13,Freio,897,71,4.0,Carlos,Dinheiro,Concluído
+306,2025-04-26,Cliente_231,Alinhamento,867,514,4.6,Carlos,Dinheiro,Cancelado
+307,2025-12-17,Cliente_235,Diagnóstico,1351,496,3.0,João,Dinheiro,Cancelado
+308,2025-10-03,Cliente_41,Diagnóstico,484,186,3.5,Marcos,Cartão,Concluído
+309,2025-06-30,Cliente_193,Revisão,451,101,1.9,Carlos,Cartão,Cancelado
+310,2025-09-12,Cliente_38,Alinhamento,305,318,4.3,Carlos,Pix,Concluído
+311,2025-02-19,Cliente_292,Alinhamento,1231,327,1.8,João,Cartão,Concluído
+312,2025-07-12,Cliente_18,Alinhamento,364,566,2.4,Pedro,Cartão,Concluído
+313,2025-08-17,Cliente_181,Revisão,269,666,2.5,Marcos,Pix,Cancelado
+314,2025-11-29,Cliente_69,Suspensão,1023,443,1.4,Carlos,Dinheiro,Cancelado
+315,2025-10-04,Cliente_53,Revisão,766,80,4.7,João,Pix,Concluído
+316,2025-02-15,Cliente_4,Alinhamento,258,64,2.6,Carlos,Dinheiro,Concluído
+317,2025-12-03,Cliente_300,Diagnóstico,939,765,2.4,Pedro,Pix,Cancelado
+318,2025-09-13,Cliente_139,Troca de Óleo,226,417,1.1,Pedro,Dinheiro,Concluído
+319,2025-11-25,Cliente_50,Diagnóstico,1328,564,1.8,Carlos,Dinheiro,Concluído
+320,2025-08-18,Cliente_174,Freio,407,73,1.2,Marcos,Dinheiro,Concluído
+321,2025-09-19,Cliente_231,Alinhamento,474,222,2.2,Carlos,Cartão,Cancelado
+322,2025-03-03,Cliente_250,Troca de Óleo,300,652,3.6,Marcos,Pix,Cancelado
+323,2025-01-21,Cliente_202,Suspensão,188,718,1.8,Pedro,Dinheiro,Concluído
+324,2025-11-07,Cliente_222,Freio,1301,552,4.8,Carlos,Pix,Concluído
+325,2025-07-29,Cliente_38,Suspensão,1422,136,2.1,Marcos,Pix,Concluído
+326,2025-12-23,Cliente_183,Diagnóstico,169,380,3.4,Carlos,Cartão,Concluído
+327,2025-02-27,Cliente_271,Freio,682,383,3.5,Pedro,Dinheiro,Concluído
+328,2025-08-09,Cliente_245,Freio,1175,650,3.3,Marcos,Dinheiro,Concluído
+329,2025-06-20,Cliente_195,Revisão,1470,273,3.2,Pedro,Dinheiro,Cancelado
+330,2025-12-09,Cliente_44,Suspensão,367,731,4.0,João,Pix,Concluído
+331,2025-12-02,Cliente_300,Freio,1210,797,4.2,Pedro,Cartão,Concluído
+332,2025-04-23,Cliente_32,Troca de Óleo,587,397,5.0,Marcos,Cartão,Cancelado
+333,2025-11-20,Cliente_136,Revisão,608,322,1.1,Carlos,Dinheiro,Cancelado
+334,2025-04-26,Cliente_227,Diagnóstico,1341,784,4.8,Carlos,Pix,Cancelado
+335,2025-12-28,Cliente_127,Troca de Óleo,870,247,2.7,João,Pix,Cancelado
+336,2025-04-14,Cliente_180,Troca de Óleo,173,491,1.2,Pedro,Pix,Concluído
+337,2025-06-29,Cliente_7,Suspensão,508,499,2.3,Marcos,Pix,Cancelado
+338,2025-11-28,Cliente_126,Revisão,979,445,4.3,Pedro,Cartão,Concluído
+339,2025-09-15,Cliente_163,Troca de Óleo,1166,432,2.2,João,Dinheiro,Concluído
+340,2025-08-14,Cliente_223,Freio,283,50,3.8,Pedro,Pix,Cancelado
+341,2025-08-29,Cliente_220,Diagnóstico,286,568,4.7,Pedro,Pix,Cancelado
+342,2025-02-10,Cliente_300,Troca de Óleo,1221,158,4.6,Marcos,Pix,Cancelado
+343,2025-08-21,Cliente_298,Revisão,299,299,3.0,Marcos,Cartão,Cancelado
+344,2025-08-01,Cliente_289,Alinhamento,408,660,1.4,Pedro,Dinheiro,Cancelado
+345,2025-12-22,Cliente_13,Suspensão,192,511,3.3,Carlos,Pix,Cancelado
+346,2025-06-10,Cliente_61,Diagnóstico,792,59,3.4,Pedro,Pix,Cancelado
+347,2025-07-09,Cliente_75,Freio,1189,352,4.6,Marcos,Pix,Concluído
+348,2025-04-03,Cliente_115,Freio,1309,275,3.7,Carlos,Pix,Concluído
+349,2025-07-09,Cliente_192,Troca de Óleo,554,274,1.6,Marcos,Cartão,Concluído
+350,2025-07-14,Cliente_144,Troca de Óleo,440,615,2.2,Marcos,Dinheiro,Cancelado
+351,2025-09-19,Cliente_14,Freio,867,677,1.3,Pedro,Dinheiro,Cancelado
+352,2025-03-28,Cliente_87,Diagnóstico,759,58,1.8,Carlos,Dinheiro,Cancelado
+353,2025-02-06,Cliente_282,Troca de Óleo,484,628,1.0,Carlos,Cartão,Concluído
+354,2025-08-25,Cliente_281,Suspensão,1477,371,4.3,Pedro,Dinheiro,Cancelado
+355,2025-11-03,Cliente_299,Suspensão,941,632,3.5,João,Dinheiro,Concluído
+356,2025-11-16,Cliente_118,Alinhamento,418,513,1.7,Carlos,Cartão,Cancelado
+357,2025-02-08,Cliente_241,Troca de Óleo,805,266,4.3,Pedro,Dinheiro,Cancelado
+358,2025-12-02,Cliente_246,Suspensão,458,582,3.9,Marcos,Cartão,Cancelado
+359,2025-12-15,Cliente_227,Diagnóstico,192,368,2.1,João,Pix,Cancelado
+360,2025-09-04,Cliente_271,Diagnóstico,1434,531,2.6,Marcos,Pix,Concluído
+361,2025-02-27,Cliente_251,Alinhamento,614,465,4.7,João,Dinheiro,Concluído
+362,2025-04-26,Cliente_245,Freio,1099,223,4.2,Pedro,Cartão,Cancelado
+363,2025-10-12,Cliente_100,Troca de Óleo,1406,86,4.4,Pedro,Cartão,Cancelado
+364,2025-11-19,Cliente_227,Diagnóstico,1497,706,3.7,Carlos,Cartão,Concluído
+365,2025-05-29,Cliente_180,Diagnóstico,1397,517,1.6,Carlos,Dinheiro,Concluído
+366,2025-08-18,Cliente_157,Troca de Óleo,321,661,3.3,Carlos,Pix,Cancelado
+367,2025-09-22,Cliente_185,Revisão,1398,611,2.9,Marcos,Pix,Concluído
+368,2025-03-20,Cliente_1,Diagnóstico,818,763,3.3,Carlos,Dinheiro,Concluído
+369,2025-09-15,Cliente_182,Freio,977,739,2.7,Carlos,Pix,Concluído
+370,2025-07-30,Cliente_90,Revisão,1481,568,2.7,João,Dinheiro,Concluído
+371,2025-10-19,Cliente_255,Troca de Óleo,316,138,4.8,Carlos,Pix,Cancelado
+372,2025-07-05,Cliente_224,Suspensão,1396,342,3.3,Marcos,Dinheiro,Cancelado
+373,2025-06-20,Cliente_125,Freio,363,679,2.1,Pedro,Pix,Cancelado
+374,2025-02-06,Cliente_283,Revisão,849,75,2.0,Pedro,Cartão,Concluído
+375,2025-09-19,Cliente_269,Revisão,1133,304,1.4,Marcos,Dinheiro,Cancelado
+376,2025-02-25,Cliente_239,Troca de Óleo,563,608,2.5,Pedro,Cartão,Cancelado
+377,2025-03-20,Cliente_185,Freio,155,718,2.8,Pedro,Dinheiro,Concluído
+378,2025-07-18,Cliente_254,Diagnóstico,573,670,2.8,Marcos,Cartão,Concluído
+379,2025-08-12,Cliente_11,Troca de Óleo,1041,140,1.2,João,Dinheiro,Concluído
+380,2025-04-05,Cliente_285,Troca de Óleo,736,511,3.0,Marcos,Cartão,Cancelado
+381,2025-08-17,Cliente_266,Revisão,685,503,2.4,Marcos,Cartão,Concluído
+382,2025-06-12,Cliente_14,Alinhamento,866,375,2.4,Carlos,Dinheiro,Cancelado
+383,2025-01-27,Cliente_192,Freio,687,578,3.6,Pedro,Dinheiro,Concluído
+384,2025-10-23,Cliente_172,Revisão,1306,280,2.3,João,Dinheiro,Cancelado
+385,2025-12-09,Cliente_257,Freio,1054,509,2.9,Pedro,Dinheiro,Concluído
+386,2025-12-20,Cliente_262,Diagnóstico,285,171,2.5,João,Cartão,Concluído
+387,2025-07-17,Cliente_29,Revisão,1028,273,1.8,Pedro,Dinheiro,Cancelado
+388,2025-12-04,Cliente_226,Revisão,502,85,2.4,Marcos,Pix,Cancelado
+389,2025-12-27,Cliente_117,Suspensão,477,485,1.6,João,Cartão,Concluído
+390,2025-06-28,Cliente_155,Diagnóstico,521,639,4.6,Carlos,Cartão,Concluído
+391,2025-06-12,Cliente_269,Troca de Óleo,902,131,4.5,João,Dinheiro,Cancelado
+392,2025-03-10,Cliente_45,Troca de Óleo,1277,176,3.6,Carlos,Cartão,Cancelado
+393,2025-02-10,Cliente_65,Revisão,516,504,1.6,Carlos,Cartão,Concluído
+394,2025-06-25,Cliente_179,Suspensão,525,494,3.3,Pedro,Cartão,Cancelado
+395,2025-12-13,Cliente_135,Freio,1181,529,1.6,João,Cartão,Cancelado
+396,2025-09-27,Cliente_39,Alinhamento,1043,489,1.9,Marcos,Cartão,Concluído
+397,2025-05-29,Cliente_221,Troca de Óleo,241,582,1.4,Pedro,Pix,Concluído
+398,2025-09-11,Cliente_95,Suspensão,1315,598,4.1,Pedro,Cartão,Cancelado
+399,2025-01-21,Cliente_273,Troca de Óleo,724,128,3.2,Pedro,Dinheiro,Concluído
+400,2025-10-14,Cliente_262,Alinhamento,1308,388,1.9,Carlos,Pix,Concluído
+401,2025-03-08,Cliente_65,Diagnóstico,1487,469,4.4,Pedro,Cartão,Concluído
+402,2025-03-31,Cliente_254,Revisão,306,710,4.0,Marcos,Cartão,Concluído
+403,2025-10-08,Cliente_278,Alinhamento,182,55,4.1,Pedro,Pix,Concluído
+404,2025-01-05,Cliente_136,Diagnóstico,566,394,1.4,Pedro,Cartão,Cancelado
+405,2025-08-26,Cliente_235,Suspensão,1181,236,4.4,Pedro,Pix,Cancelado
+406,2025-02-09,Cliente_115,Freio,500,416,3.9,João,Cartão,Concluído
+407,2025-08-24,Cliente_72,Troca de Óleo,481,771,4.7,Carlos,Cartão,Concluído
+408,2025-03-03,Cliente_21,Alinhamento,900,497,3.3,Marcos,Cartão,Cancelado
+409,2025-10-22,Cliente_283,Revisão,1132,233,4.9,Marcos,Cartão,Cancelado
+410,2025-10-31,Cliente_83,Freio,614,543,2.1,Carlos,Dinheiro,Cancelado
+411,2025-05-14,Cliente_241,Troca de Óleo,1175,178,4.3,João,Cartão,Concluído
+412,2025-01-21,Cliente_238,Troca de Óleo,195,511,4.0,Marcos,Dinheiro,Concluído
+413,2025-01-24,Cliente_293,Suspensão,1087,303,1.4,Marcos,Dinheiro,Cancelado
+414,2025-09-26,Cliente_122,Revisão,179,219,4.1,Marcos,Pix,Concluído
+415,2025-02-02,Cliente_97,Revisão,856,176,3.2,Marcos,Cartão,Cancelado
+416,2025-05-25,Cliente_74,Troca de Óleo,289,139,4.5,João,Pix,Concluído
+417,2025-10-25,Cliente_270,Diagnóstico,556,657,2.4,João,Pix,Cancelado
+418,2025-06-16,Cliente_269,Revisão,1247,355,5.0,Carlos,Cartão,Concluído
+419,2025-08-31,Cliente_5,Troca de Óleo,398,373,1.4,Marcos,Pix,Concluído
+420,2025-08-24,Cliente_129,Suspensão,1139,467,4.8,João,Cartão,Concluído
+421,2025-09-08,Cliente_275,Troca de Óleo,1446,698,1.5,Carlos,Dinheiro,Cancelado
+422,2025-01-05,Cliente_160,Freio,500,71,4.2,Carlos,Pix,Concluído
+423,2025-03-09,Cliente_190,Diagnóstico,1401,744,2.5,Pedro,Dinheiro,Concluído
+424,2025-06-02,Cliente_222,Troca de Óleo,1179,569,3.5,Marcos,Pix,Concluído
+425,2025-01-22,Cliente_73,Alinhamento,876,235,3.3,Carlos,Dinheiro,Concluído
+426,2025-12-31,Cliente_73,Diagnóstico,434,535,3.7,Pedro,Pix,Concluído
+427,2025-05-19,Cliente_56,Revisão,352,450,4.0,Marcos,Pix,Concluído
+428,2025-08-12,Cliente_202,Suspensão,1244,783,1.7,Marcos,Dinheiro,Cancelado
+429,2025-08-02,Cliente_44,Suspensão,479,664,4.7,Marcos,Cartão,Concluído
+430,2025-12-31,Cliente_296,Alinhamento,383,320,4.3,Pedro,Cartão,Concluído
+431,2025-09-15,Cliente_250,Freio,1439,344,1.0,Pedro,Pix,Cancelado
+432,2025-01-14,Cliente_135,Diagnóstico,1138,745,2.3,João,Cartão,Concluído
+433,2025-04-12,Cliente_33,Diagnóstico,1126,678,2.1,Marcos,Dinheiro,Cancelado
+434,2025-03-15,Cliente_275,Diagnóstico,810,517,1.5,Carlos,Cartão,Cancelado
+435,2025-01-12,Cliente_107,Alinhamento,721,157,4.9,João,Dinheiro,Concluído
+436,2025-12-13,Cliente_253,Revisão,527,191,2.7,Pedro,Dinheiro,Concluído
+437,2025-11-20,Cliente_185,Troca de Óleo,1000,230,3.3,Carlos,Pix,Concluído
+438,2025-02-23,Cliente_144,Diagnóstico,356,355,3.6,Pedro,Pix,Cancelado
+439,2025-07-14,Cliente_296,Revisão,759,750,2.5,Carlos,Cartão,Cancelado
+440,2025-05-18,Cliente_256,Alinhamento,1477,522,2.1,Pedro,Cartão,Cancelado
+441,2025-04-09,Cliente_5,Troca de Óleo,1415,440,2.8,Carlos,Pix,Cancelado
+442,2025-11-25,Cliente_13,Alinhamento,764,347,2.8,João,Cartão,Concluído
+443,2025-06-11,Cliente_128,Troca de Óleo,173,207,4.6,Carlos,Cartão,Cancelado
+444,2025-04-23,Cliente_287,Diagnóstico,1377,696,1.5,João,Dinheiro,Concluído
+445,2025-10-16,Cliente_97,Troca de Óleo,261,715,1.2,Pedro,Dinheiro,Cancelado
+446,2025-10-21,Cliente_68,Revisão,475,716,1.4,Carlos,Cartão,Concluído
+447,2025-09-27,Cliente_139,Diagnóstico,855,176,2.9,Marcos,Cartão,Concluído
+448,2025-10-12,Cliente_137,Alinhamento,747,430,1.9,Marcos,Cartão,Cancelado
+449,2025-12-09,Cliente_208,Troca de Óleo,1274,776,1.1,Carlos,Pix,Cancelado
+450,2025-01-21,Cliente_140,Troca de Óleo,620,215,3.5,João,Cartão,Concluído
+451,2025-07-09,Cliente_149,Freio,404,501,4.6,Pedro,Pix,Cancelado
+452,2025-10-27,Cliente_223,Freio,897,325,4.6,Marcos,Dinheiro,Concluído
+453,2025-01-09,Cliente_52,Diagnóstico,991,681,3.2,Carlos,Pix,Concluído
+454,2025-07-30,Cliente_156,Alinhamento,182,515,2.3,Pedro,Pix,Concluído
+455,2025-10-26,Cliente_76,Freio,1024,170,4.3,Pedro,Pix,Concluído
+456,2025-12-26,Cliente_194,Diagnóstico,1271,202,2.4,Marcos,Pix,Cancelado
+457,2025-05-30,Cliente_180,Suspensão,668,134,4.4,João,Cartão,Cancelado
+458,2025-10-29,Cliente_282,Diagnóstico,1157,512,3.5,Pedro,Dinheiro,Cancelado
+459,2025-03-31,Cliente_283,Diagnóstico,667,626,3.1,João,Dinheiro,Cancelado
+460,2025-06-14,Cliente_143,Diagnóstico,1266,360,3.1,Carlos,Dinheiro,Cancelado
+461,2025-07-12,Cliente_141,Revisão,1105,584,2.7,Pedro,Dinheiro,Cancelado
+462,2025-12-21,Cliente_281,Suspensão,1018,398,3.7,João,Pix,Cancelado
+463,2025-06-04,Cliente_157,Suspensão,592,778,5.0,João,Pix,Cancelado
+464,2025-08-21,Cliente_286,Revisão,957,769,1.1,Carlos,Dinheiro,Concluído
+465,2025-06-01,Cliente_5,Troca de Óleo,954,101,2.8,Pedro,Dinheiro,Concluído
+466,2025-01-22,Cliente_113,Suspensão,319,651,3.9,Pedro,Pix,Cancelado
+467,2025-10-27,Cliente_21,Freio,1497,749,1.7,Pedro,Dinheiro,Concluído
+468,2025-06-29,Cliente_56,Freio,155,412,3.5,Marcos,Pix,Cancelado
+469,2025-08-21,Cliente_143,Suspensão,348,512,2.2,Marcos,Dinheiro,Cancelado
+470,2025-03-15,Cliente_44,Alinhamento,262,272,4.9,Carlos,Dinheiro,Concluído
+471,2025-01-09,Cliente_282,Freio,691,346,3.3,Carlos,Dinheiro,Concluído
+472,2025-01-01,Cliente_53,Suspensão,1440,480,3.9,João,Dinheiro,Concluído
+473,2025-06-07,Cliente_156,Revisão,1313,341,3.6,Marcos,Cartão,Cancelado
+474,2025-02-02,Cliente_191,Troca de Óleo,1325,559,3.0,Marcos,Cartão,Concluído
+475,2025-05-26,Cliente_289,Revisão,826,545,2.7,Pedro,Dinheiro,Cancelado
+476,2025-04-16,Cliente_109,Alinhamento,1088,439,4.9,Carlos,Cartão,Concluído
+477,2025-04-10,Cliente_100,Revisão,359,731,4.5,Marcos,Pix,Concluído
+478,2025-04-19,Cliente_161,Freio,839,315,2.5,Carlos,Cartão,Cancelado
+479,2025-07-01,Cliente_283,Troca de Óleo,1155,113,2.1,João,Cartão,Cancelado
+480,2025-08-02,Cliente_38,Alinhamento,716,735,1.7,Pedro,Pix,Cancelado
+481,2025-08-21,Cliente_122,Alinhamento,1433,236,3.1,João,Pix,Concluído
+482,2025-11-07,Cliente_220,Revisão,1064,106,3.2,Carlos,Dinheiro,Concluído
+483,2025-12-07,Cliente_114,Freio,783,233,4.7,Pedro,Pix,Cancelado
+484,2025-09-07,Cliente_230,Troca de Óleo,589,398,3.8,Carlos,Dinheiro,Concluído
+485,2025-09-18,Cliente_230,Revisão,220,788,1.1,Marcos,Dinheiro,Concluído
+486,2025-11-29,Cliente_251,Freio,764,364,2.2,João,Pix,Cancelado
+487,2025-09-24,Cliente_182,Diagnóstico,1494,392,4.7,Carlos,Cartão,Concluído
+488,2025-05-19,Cliente_228,Alinhamento,215,280,1.4,João,Dinheiro,Cancelado
+489,2025-03-09,Cliente_175,Freio,520,299,2.6,Pedro,Pix,Cancelado
+490,2025-06-01,Cliente_247,Revisão,1147,170,2.5,Carlos,Cartão,Cancelado
+491,2025-06-09,Cliente_134,Suspensão,1323,703,4.7,Pedro,Dinheiro,Cancelado
+492,2025-03-27,Cliente_100,Revisão,1221,137,3.0,Marcos,Cartão,Concluído
+493,2025-01-04,Cliente_201,Diagnóstico,957,775,2.3,João,Pix,Cancelado
+494,2025-07-21,Cliente_42,Revisão,796,488,2.5,Pedro,Pix,Cancelado
+495,2025-02-17,Cliente_204,Alinhamento,402,795,3.0,Carlos,Dinheiro,Cancelado
+496,2025-09-18,Cliente_83,Revisão,1480,623,4.8,Carlos,Dinheiro,Cancelado
+497,2025-12-31,Cliente_82,Suspensão,669,482,1.7,Carlos,Pix,Concluído
+498,2025-08-30,Cliente_90,Diagnóstico,794,373,2.4,João,Dinheiro,Cancelado
+499,2025-02-25,Cliente_54,Troca de Óleo,833,281,3.2,Marcos,Cartão,Concluído
+500,2025-08-21,Cliente_251,Revisão,403,424,2.4,João,Cartão,Concluído
+501,2025-04-10,Cliente_103,Freio,227,639,4.0,Pedro,Dinheiro,Cancelado
+502,2025-08-02,Cliente_70,Troca de Óleo,1401,789,3.8,Pedro,Dinheiro,Concluído
+503,2025-02-26,Cliente_21,Diagnóstico,1155,478,4.7,Pedro,Cartão,Concluído
+504,2025-08-03,Cliente_18,Revisão,1401,540,4.9,João,Dinheiro,Concluído
+505,2025-07-02,Cliente_247,Alinhamento,883,516,4.6,Marcos,Dinheiro,Concluído
+506,2025-09-03,Cliente_88,Freio,223,561,2.5,Marcos,Cartão,Cancelado
+507,2025-02-17,Cliente_165,Revisão,213,495,1.9,Pedro,Dinheiro,Concluído
+508,2025-07-03,Cliente_15,Revisão,1172,665,1.3,João,Pix,Cancelado
+509,2025-10-23,Cliente_25,Alinhamento,1127,602,1.8,João,Cartão,Concluído
+510,2025-05-19,Cliente_269,Revisão,986,488,1.7,Carlos,Cartão,Concluído
+511,2025-11-10,Cliente_113,Revisão,357,481,1.7,Marcos,Cartão,Cancelado
+512,2025-12-07,Cliente_288,Alinhamento,704,618,4.9,Carlos,Dinheiro,Cancelado
+513,2025-11-10,Cliente_93,Freio,173,353,2.0,Carlos,Cartão,Concluído
+514,2025-02-12,Cliente_198,Diagnóstico,964,800,3.8,Marcos,Pix,Concluído
+515,2025-04-25,Cliente_234,Suspensão,182,748,1.5,Carlos,Cartão,Cancelado
+516,2025-07-23,Cliente_248,Alinhamento,673,548,4.2,Marcos,Pix,Concluído
+517,2025-01-22,Cliente_211,Suspensão,285,439,4.3,Marcos,Cartão,Concluído
+518,2025-12-16,Cliente_32,Diagnóstico,958,622,3.1,Marcos,Pix,Concluído
+519,2025-02-21,Cliente_113,Freio,360,286,4.0,João,Dinheiro,Cancelado
+520,2025-04-30,Cliente_60,Alinhamento,506,310,4.8,Pedro,Pix,Cancelado
+521,2025-09-15,Cliente_157,Alinhamento,971,199,4.5,Carlos,Cartão,Cancelado
+522,2025-04-30,Cliente_34,Freio,208,453,1.6,João,Dinheiro,Concluído
+523,2025-09-08,Cliente_201,Alinhamento,1289,362,4.3,João,Pix,Cancelado
+524,2025-07-24,Cliente_57,Diagnóstico,864,73,3.9,João,Pix,Concluído
+525,2025-10-20,Cliente_109,Suspensão,510,324,4.0,Pedro,Cartão,Concluído
+526,2025-12-26,Cliente_109,Diagnóstico,707,668,4.8,João,Dinheiro,Concluído
+527,2025-03-15,Cliente_115,Diagnóstico,362,488,3.9,Pedro,Pix,Cancelado
+528,2025-03-03,Cliente_37,Revisão,1328,398,4.9,Pedro,Dinheiro,Cancelado
+529,2025-05-10,Cliente_83,Troca de Óleo,985,184,1.4,Carlos,Dinheiro,Concluído
+530,2025-09-22,Cliente_213,Revisão,462,466,3.6,Carlos,Cartão,Cancelado
+531,2025-04-16,Cliente_279,Alinhamento,173,360,4.9,Pedro,Pix,Cancelado
+532,2025-08-17,Cliente_265,Diagnóstico,1485,705,1.9,Marcos,Pix,Cancelado
+533,2025-12-22,Cliente_160,Suspensão,193,76,3.0,Pedro,Dinheiro,Concluído
+534,2025-07-24,Cliente_93,Revisão,572,764,2.0,Pedro,Pix,Cancelado
+535,2025-08-10,Cliente_260,Revisão,784,349,4.3,Marcos,Dinheiro,Cancelado
+536,2025-06-18,Cliente_165,Alinhamento,588,369,1.7,João,Dinheiro,Concluído
+537,2025-02-26,Cliente_276,Diagnóstico,250,416,1.6,João,Dinheiro,Cancelado
+538,2025-09-08,Cliente_295,Alinhamento,1293,745,3.6,João,Pix,Concluído
+539,2025-08-26,Cliente_66,Troca de Óleo,309,79,4.4,João,Pix,Cancelado
+540,2025-07-31,Cliente_263,Diagnóstico,230,535,2.1,Marcos,Dinheiro,Cancelado
+541,2025-10-25,Cliente_141,Freio,489,659,3.6,Pedro,Dinheiro,Cancelado
+542,2025-01-29,Cliente_286,Revisão,1320,688,2.5,João,Dinheiro,Concluído
+543,2025-12-14,Cliente_239,Suspensão,1047,584,1.5,Carlos,Cartão,Concluído
+544,2025-05-16,Cliente_20,Suspensão,293,230,3.7,Pedro,Pix,Concluído
+545,2025-11-25,Cliente_225,Suspensão,1103,275,2.4,Marcos,Cartão,Cancelado
+546,2025-11-08,Cliente_294,Troca de Óleo,1388,672,3.5,João,Pix,Concluído
+547,2025-12-02,Cliente_125,Freio,895,771,2.4,Marcos,Pix,Cancelado
+548,2025-02-27,Cliente_231,Suspensão,1216,469,4.8,Pedro,Cartão,Concluído
+549,2025-08-09,Cliente_81,Revisão,330,687,4.2,João,Dinheiro,Cancelado
+550,2025-01-04,Cliente_244,Troca de Óleo,1442,384,1.2,João,Dinheiro,Concluído
+551,2025-09-29,Cliente_22,Diagnóstico,647,350,3.7,Carlos,Pix,Cancelado
+552,2025-03-17,Cliente_75,Diagnóstico,290,467,1.3,João,Cartão,Cancelado
+553,2025-03-14,Cliente_6,Freio,1184,71,3.4,Carlos,Pix,Cancelado
+554,2025-11-21,Cliente_137,Suspensão,834,333,1.0,Carlos,Cartão,Cancelado
+555,2025-06-24,Cliente_222,Alinhamento,1017,509,1.7,Carlos,Dinheiro,Cancelado
+556,2025-10-04,Cliente_127,Troca de Óleo,950,120,1.0,Carlos,Cartão,Concluído
+557,2025-06-23,Cliente_34,Freio,426,462,4.7,João,Cartão,Cancelado
+558,2025-03-01,Cliente_261,Troca de Óleo,1001,296,1.6,João,Dinheiro,Concluído
+559,2025-03-01,Cliente_207,Freio,1037,287,4.3,Carlos,Dinheiro,Cancelado
+560,2025-07-05,Cliente_207,Alinhamento,1116,325,2.6,João,Cartão,Concluído
+561,2025-11-01,Cliente_20,Troca de Óleo,816,209,4.2,Carlos,Cartão,Concluído
+562,2025-05-07,Cliente_78,Freio,377,82,1.7,Carlos,Pix,Concluído
+563,2025-03-29,Cliente_101,Troca de Óleo,1090,772,4.6,João,Pix,Cancelado
+564,2025-03-09,Cliente_53,Suspensão,766,192,2.8,Carlos,Cartão,Cancelado
+565,2025-01-23,Cliente_262,Freio,1308,739,3.8,Pedro,Pix,Cancelado
+566,2025-02-02,Cliente_75,Diagnóstico,591,613,4.7,João,Dinheiro,Concluído
+567,2025-08-08,Cliente_109,Alinhamento,876,483,4.4,Pedro,Dinheiro,Concluído
+568,2025-08-24,Cliente_168,Suspensão,684,706,3.7,João,Dinheiro,Concluído
+569,2025-01-02,Cliente_295,Diagnóstico,312,155,4.1,Pedro,Cartão,Cancelado
+570,2025-03-01,Cliente_38,Alinhamento,421,416,3.9,Pedro,Dinheiro,Cancelado
+571,2025-11-27,Cliente_51,Freio,752,317,2.3,João,Dinheiro,Concluído
+572,2025-01-10,Cliente_105,Alinhamento,334,406,1.4,Carlos,Cartão,Concluído
+573,2025-07-16,Cliente_98,Alinhamento,1409,490,1.3,João,Cartão,Concluído
+574,2025-10-03,Cliente_137,Troca de Óleo,664,184,3.9,Pedro,Cartão,Cancelado
+575,2025-10-23,Cliente_164,Revisão,991,427,4.7,Carlos,Pix,Cancelado
+576,2025-09-30,Cliente_124,Troca de Óleo,1321,356,2.3,Marcos,Cartão,Cancelado
+577,2025-10-06,Cliente_300,Troca de Óleo,181,142,3.8,Marcos,Cartão,Concluído
+578,2025-03-15,Cliente_125,Freio,952,488,4.3,Carlos,Pix,Concluído
+579,2025-11-01,Cliente_169,Alinhamento,914,391,2.5,Carlos,Cartão,Concluído
+580,2025-08-26,Cliente_57,Suspensão,186,586,1.7,Pedro,Cartão,Cancelado
+581,2025-04-13,Cliente_27,Troca de Óleo,1498,121,1.3,Pedro,Pix,Cancelado
+582,2025-07-21,Cliente_38,Diagnóstico,463,605,2.3,Pedro,Pix,Cancelado
+583,2025-11-23,Cliente_278,Diagnóstico,1494,133,4.6,João,Cartão,Cancelado
+584,2025-09-20,Cliente_239,Troca de Óleo,995,629,3.9,Pedro,Pix,Concluído
+585,2025-03-11,Cliente_144,Freio,1338,540,4.7,Pedro,Dinheiro,Cancelado
+586,2025-06-15,Cliente_145,Diagnóstico,703,613,1.3,Carlos,Dinheiro,Concluído
+587,2025-07-14,Cliente_211,Freio,1036,712,2.7,Marcos,Pix,Cancelado
+588,2025-04-21,Cliente_197,Alinhamento,767,188,1.0,João,Pix,Cancelado
+589,2025-03-04,Cliente_277,Alinhamento,669,288,4.1,Carlos,Dinheiro,Cancelado
+590,2025-10-28,Cliente_298,Suspensão,239,50,3.9,João,Pix,Cancelado
+591,2025-05-21,Cliente_114,Suspensão,780,739,1.1,João,Pix,Cancelado
+592,2025-03-22,Cliente_188,Diagnóstico,669,746,4.5,João,Cartão,Concluído
+593,2025-03-30,Cliente_15,Suspensão,330,137,5.0,Carlos,Pix,Cancelado
+594,2025-12-31,Cliente_210,Suspensão,1423,417,1.9,João,Cartão,Cancelado
+595,2025-09-21,Cliente_246,Suspensão,476,243,4.2,Marcos,Cartão,Cancelado
+596,2025-08-25,Cliente_275,Troca de Óleo,845,766,2.8,João,Dinheiro,Cancelado
+597,2025-07-20,Cliente_240,Freio,1414,663,3.7,Carlos,Pix,Cancelado
+598,2025-08-03,Cliente_33,Alinhamento,1308,640,4.5,Marcos,Pix,Cancelado
+599,2025-11-26,Cliente_64,Freio,716,754,4.5,João,Dinheiro,Cancelado
+600,2025-11-12,Cliente_193,Suspensão,1109,264,1.2,Pedro,Dinheiro,Concluído
+601,2025-07-27,Cliente_249,Freio,785,274,2.6,Pedro,Pix,Cancelado
+602,2025-07-28,Cliente_163,Revisão,739,633,1.0,Carlos,Dinheiro,Concluído
+603,2025-08-24,Cliente_31,Freio,164,297,4.0,João,Cartão,Concluído
+604,2025-05-28,Cliente_235,Diagnóstico,998,579,1.4,João,Dinheiro,Concluído
+605,2025-04-29,Cliente_237,Freio,811,142,4.2,Marcos,Pix,Cancelado
+606,2025-07-21,Cliente_278,Troca de Óleo,481,266,2.8,Pedro,Pix,Concluído
+607,2025-10-26,Cliente_214,Suspensão,875,730,4.7,Pedro,Pix,Concluído
+608,2025-10-26,Cliente_23,Freio,768,503,3.7,Carlos,Cartão,Cancelado
+609,2025-05-04,Cliente_260,Troca de Óleo,1219,160,1.9,Marcos,Pix,Cancelado
+610,2025-08-16,Cliente_125,Suspensão,175,240,1.7,João,Dinheiro,Concluído
+611,2025-04-01,Cliente_162,Troca de Óleo,245,329,1.8,Pedro,Pix,Cancelado
+612,2025-03-17,Cliente_286,Freio,853,539,3.5,João,Dinheiro,Cancelado
+613,2025-04-19,Cliente_62,Troca de Óleo,828,332,2.4,Carlos,Dinheiro,Cancelado
+614,2025-04-23,Cliente_257,Suspensão,455,505,3.2,Marcos,Pix,Concluído
+615,2025-08-11,Cliente_162,Suspensão,1117,558,3.3,Carlos,Pix,Concluído
+616,2025-12-31,Cliente_149,Diagnóstico,991,635,1.1,Pedro,Pix,Cancelado
+617,2025-12-19,Cliente_137,Freio,927,253,3.2,João,Dinheiro,Cancelado
+618,2025-12-30,Cliente_64,Diagnóstico,1410,306,1.3,Pedro,Pix,Concluído
+619,2025-09-08,Cliente_29,Suspensão,1307,781,4.0,João,Cartão,Concluído
+620,2025-05-12,Cliente_153,Alinhamento,987,246,1.5,Carlos,Cartão,Concluído
+621,2025-10-17,Cliente_208,Alinhamento,1304,57,1.2,João,Cartão,Concluído
+622,2025-07-14,Cliente_183,Freio,248,745,4.7,João,Pix,Cancelado
+623,2025-04-02,Cliente_277,Troca de Óleo,461,328,3.9,Pedro,Dinheiro,Cancelado
+624,2025-07-12,Cliente_219,Freio,904,184,4.5,Carlos,Dinheiro,Concluído
+625,2025-03-30,Cliente_88,Suspensão,902,343,3.6,João,Pix,Concluído
+626,2025-02-13,Cliente_137,Suspensão,923,364,1.6,João,Pix,Concluído
+627,2025-08-11,Cliente_3,Diagnóstico,973,242,3.1,João,Pix,Cancelado
+628,2025-01-07,Cliente_295,Suspensão,296,626,4.5,Carlos,Pix,Cancelado
+629,2025-04-15,Cliente_257,Diagnóstico,812,187,2.3,Pedro,Cartão,Cancelado
+630,2025-05-11,Cliente_51,Revisão,1171,147,1.2,Carlos,Cartão,Concluído
+631,2025-07-13,Cliente_174,Alinhamento,1348,401,4.4,Carlos,Pix,Concluído
+632,2025-02-06,Cliente_144,Diagnóstico,390,606,2.3,Carlos,Pix,Cancelado
+633,2025-10-09,Cliente_198,Alinhamento,1378,581,3.7,João,Cartão,Concluído
+634,2025-06-17,Cliente_41,Alinhamento,604,409,3.4,Carlos,Dinheiro,Cancelado
+635,2025-06-30,Cliente_300,Revisão,1041,519,2.4,Pedro,Pix,Cancelado
+636,2025-07-01,Cliente_217,Revisão,150,266,3.6,Marcos,Cartão,Cancelado
+637,2025-01-04,Cliente_234,Troca de Óleo,423,627,1.0,Pedro,Cartão,Concluído
+638,2025-12-07,Cliente_214,Troca de Óleo,603,167,2.1,Pedro,Dinheiro,Concluído
+639,2025-06-23,Cliente_68,Revisão,1399,762,1.0,Marcos,Dinheiro,Cancelado
+640,2025-03-28,Cliente_158,Troca de Óleo,396,691,2.6,João,Dinheiro,Cancelado
+641,2025-02-03,Cliente_278,Freio,1315,530,4.1,Carlos,Pix,Cancelado
+642,2025-05-11,Cliente_130,Revisão,227,690,3.5,Marcos,Cartão,Cancelado
+643,2025-08-30,Cliente_196,Suspensão,1351,50,2.3,Pedro,Cartão,Concluído
+644,2025-03-01,Cliente_27,Suspensão,1055,411,3.5,Pedro,Cartão,Concluído
+645,2025-01-30,Cliente_255,Freio,951,519,3.7,Marcos,Cartão,Concluído
+646,2025-11-19,Cliente_26,Diagnóstico,762,624,1.0,Pedro,Dinheiro,Concluído
+647,2025-10-22,Cliente_125,Suspensão,1233,771,1.3,Pedro,Pix,Concluído
+648,2025-07-28,Cliente_102,Revisão,1278,396,4.9,Pedro,Pix,Concluído
+649,2025-12-17,Cliente_167,Troca de Óleo,893,459,3.1,Pedro,Cartão,Cancelado
+650,2025-02-19,Cliente_74,Freio,611,248,2.3,Pedro,Cartão,Cancelado
+651,2025-08-12,Cliente_91,Alinhamento,1465,565,2.9,Marcos,Cartão,Cancelado
+652,2025-03-07,Cliente_267,Suspensão,487,664,1.9,Marcos,Pix,Concluído
+653,2025-05-17,Cliente_70,Freio,337,205,3.8,Carlos,Cartão,Cancelado
+654,2025-01-27,Cliente_63,Freio,1178,543,3.4,Carlos,Cartão,Cancelado
+655,2025-03-24,Cliente_134,Revisão,410,499,2.8,Marcos,Cartão,Concluído
+656,2025-09-09,Cliente_66,Alinhamento,974,375,4.2,Pedro,Dinheiro,Cancelado
+657,2025-10-06,Cliente_20,Alinhamento,1122,430,3.8,Carlos,Dinheiro,Concluído
+658,2025-03-25,Cliente_261,Revisão,306,307,4.8,Pedro,Dinheiro,Cancelado
+659,2025-04-20,Cliente_120,Alinhamento,1057,604,3.8,João,Cartão,Cancelado
+660,2025-08-04,Cliente_171,Freio,1266,445,3.7,Marcos,Dinheiro,Cancelado
+661,2025-01-15,Cliente_66,Alinhamento,505,674,4.0,Carlos,Cartão,Cancelado
+662,2025-09-16,Cliente_146,Diagnóstico,864,62,4.8,Marcos,Pix,Concluído
+663,2025-11-16,Cliente_141,Suspensão,1059,777,4.0,João,Dinheiro,Cancelado
+664,2025-09-12,Cliente_197,Revisão,1274,238,2.1,Pedro,Pix,Concluído
+665,2025-10-24,Cliente_107,Revisão,1195,759,3.2,Pedro,Cartão,Cancelado
+666,2025-01-01,Cliente_207,Suspensão,1219,226,4.2,João,Cartão,Cancelado
+667,2025-08-21,Cliente_244,Troca de Óleo,1283,765,4.2,João,Dinheiro,Concluído
+668,2025-08-28,Cliente_195,Suspensão,662,405,1.8,Marcos,Pix,Concluído
+669,2025-05-19,Cliente_282,Freio,441,121,2.4,Pedro,Cartão,Concluído
+670,2025-11-04,Cliente_143,Revisão,1466,99,3.5,Marcos,Cartão,Concluído
+671,2025-08-17,Cliente_156,Alinhamento,926,580,2.7,Carlos,Dinheiro,Concluído
+672,2025-12-28,Cliente_233,Diagnóstico,1066,604,3.6,João,Pix,Concluído
+673,2025-02-18,Cliente_260,Freio,673,211,4.3,Marcos,Cartão,Concluído
+674,2025-03-18,Cliente_273,Troca de Óleo,566,106,2.0,Marcos,Dinheiro,Cancelado
+675,2025-08-19,Cliente_95,Alinhamento,1254,552,4.1,Pedro,Pix,Cancelado
+676,2025-06-11,Cliente_273,Freio,1219,466,3.7,Pedro,Dinheiro,Concluído
+677,2025-02-03,Cliente_57,Freio,465,241,2.8,João,Dinheiro,Concluído
+678,2025-07-29,Cliente_186,Diagnóstico,720,111,1.3,João,Dinheiro,Cancelado
+679,2025-12-14,Cliente_77,Suspensão,158,304,3.8,Marcos,Dinheiro,Cancelado
+680,2025-04-08,Cliente_135,Revisão,963,80,1.3,Pedro,Dinheiro,Cancelado
+681,2025-12-03,Cliente_70,Alinhamento,637,654,2.5,Carlos,Cartão,Cancelado
+682,2025-01-25,Cliente_164,Suspensão,1240,379,4.4,Marcos,Dinheiro,Concluído
+683,2025-03-18,Cliente_275,Freio,166,572,5.0,Pedro,Cartão,Concluído
+684,2025-04-07,Cliente_78,Suspensão,1028,582,4.9,João,Cartão,Concluído
+685,2025-01-09,Cliente_277,Alinhamento,532,160,4.2,Pedro,Cartão,Cancelado
+686,2025-08-05,Cliente_54,Freio,861,169,3.9,Carlos,Dinheiro,Concluído
+687,2025-08-08,Cliente_209,Freio,962,673,1.8,João,Pix,Concluído
+688,2025-02-10,Cliente_34,Alinhamento,382,665,1.7,Pedro,Cartão,Concluído
+689,2025-03-30,Cliente_143,Revisão,687,61,4.1,Carlos,Dinheiro,Concluído
+690,2025-07-13,Cliente_239,Revisão,728,233,4.9,Carlos,Cartão,Concluído
+691,2025-07-24,Cliente_185,Freio,1371,172,1.3,Carlos,Pix,Cancelado
+692,2025-03-05,Cliente_263,Troca de Óleo,252,512,4.2,Pedro,Pix,Concluído
+693,2025-11-30,Cliente_196,Suspensão,253,587,5.0,Pedro,Dinheiro,Concluído
+694,2025-10-30,Cliente_22,Alinhamento,678,745,2.3,Carlos,Pix,Concluído
+695,2025-06-16,Cliente_173,Suspensão,829,97,1.3,João,Dinheiro,Concluído
+696,2025-09-21,Cliente_264,Revisão,1461,466,4.2,Marcos,Cartão,Concluído
+697,2025-01-12,Cliente_100,Diagnóstico,1256,682,3.7,Carlos,Pix,Cancelado
+698,2025-08-20,Cliente_196,Diagnóstico,282,262,2.5,Marcos,Cartão,Concluído
+699,2025-04-20,Cliente_261,Diagnóstico,940,694,4.7,Pedro,Pix,Concluído
+700,2025-03-28,Cliente_67,Revisão,476,166,2.7,Carlos,Pix,Concluído
+701,2025-06-01,Cliente_70,Revisão,1301,153,4.8,João,Dinheiro,Concluído
+702,2025-09-29,Cliente_240,Freio,223,412,1.1,João,Cartão,Concluído
+703,2025-12-31,Cliente_111,Troca de Óleo,873,367,3.3,Carlos,Cartão,Cancelado
+704,2025-01-29,Cliente_138,Revisão,1407,370,2.0,Pedro,Dinheiro,Concluído
+705,2025-06-15,Cliente_151,Troca de Óleo,459,706,2.3,Carlos,Cartão,Concluído
+706,2025-09-04,Cliente_209,Troca de Óleo,528,212,2.8,João,Pix,Concluído
+707,2025-09-03,Cliente_294,Alinhamento,222,261,1.1,Pedro,Dinheiro,Cancelado
+708,2025-04-24,Cliente_52,Alinhamento,857,102,2.1,Marcos,Dinheiro,Cancelado
+709,2025-09-24,Cliente_197,Revisão,1013,756,2.2,Pedro,Dinheiro,Concluído
+710,2025-09-25,Cliente_123,Troca de Óleo,1327,685,2.1,Pedro,Cartão,Concluído
+711,2025-12-09,Cliente_263,Diagnóstico,1234,70,2.3,João,Cartão,Cancelado
+712,2025-01-14,Cliente_94,Diagnóstico,1215,294,1.6,Marcos,Pix,Cancelado
+713,2025-11-30,Cliente_255,Freio,240,157,2.6,Pedro,Cartão,Concluído
+714,2025-10-27,Cliente_46,Diagnóstico,1452,647,2.6,Carlos,Dinheiro,Cancelado
+715,2025-09-05,Cliente_124,Troca de Óleo,717,429,4.3,Carlos,Cartão,Concluído
+716,2025-06-27,Cliente_247,Diagnóstico,271,67,3.2,Marcos,Cartão,Concluído
+717,2025-11-11,Cliente_204,Diagnóstico,769,333,2.5,Marcos,Dinheiro,Cancelado
+718,2025-03-23,Cliente_142,Revisão,179,379,4.1,João,Dinheiro,Concluído
+719,2025-11-28,Cliente_294,Freio,1391,585,2.0,Pedro,Dinheiro,Cancelado
+720,2025-06-27,Cliente_232,Troca de Óleo,1094,150,4.7,Marcos,Dinheiro,Concluído
+721,2025-05-25,Cliente_289,Freio,517,502,2.2,Marcos,Dinheiro,Concluído
+722,2025-01-24,Cliente_46,Diagnóstico,692,269,3.2,Marcos,Dinheiro,Cancelado
+723,2025-05-30,Cliente_257,Alinhamento,491,677,4.8,Pedro,Cartão,Cancelado
+724,2025-11-22,Cliente_289,Revisão,1254,207,2.4,João,Dinheiro,Concluído
+725,2025-01-29,Cliente_43,Alinhamento,690,671,1.9,Marcos,Dinheiro,Cancelado
+726,2025-01-23,Cliente_191,Freio,370,780,4.8,Carlos,Dinheiro,Concluído
+727,2025-05-14,Cliente_15,Revisão,586,384,2.1,Pedro,Dinheiro,Cancelado
+728,2025-01-05,Cliente_192,Alinhamento,500,470,3.9,Pedro,Cartão,Cancelado
+729,2025-11-17,Cliente_113,Freio,455,106,1.1,Marcos,Pix,Concluído
+730,2025-02-05,Cliente_60,Freio,241,776,4.0,Marcos,Pix,Cancelado
+731,2025-04-14,Cliente_230,Suspensão,1013,284,2.9,Carlos,Pix,Cancelado
+732,2025-05-17,Cliente_238,Suspensão,1168,718,2.5,Marcos,Cartão,Cancelado
+733,2025-02-18,Cliente_88,Revisão,881,309,2.4,Marcos,Dinheiro,Concluído
+734,2025-10-02,Cliente_88,Troca de Óleo,508,744,4.9,Pedro,Dinheiro,Concluído
+735,2025-07-20,Cliente_217,Alinhamento,386,136,2.7,Carlos,Dinheiro,Cancelado
+736,2025-09-30,Cliente_118,Troca de Óleo,1285,607,2.2,Marcos,Dinheiro,Concluído
+737,2025-04-02,Cliente_74,Freio,296,52,1.5,Carlos,Pix,Concluído
+738,2025-09-05,Cliente_137,Suspensão,415,395,1.6,Pedro,Pix,Cancelado
+739,2025-01-03,Cliente_150,Suspensão,185,792,1.4,Carlos,Cartão,Cancelado
+740,2025-05-13,Cliente_8,Alinhamento,1223,601,3.9,João,Dinheiro,Cancelado
+741,2025-07-01,Cliente_195,Freio,419,342,2.2,Marcos,Cartão,Cancelado
+742,2025-10-15,Cliente_185,Freio,1344,535,3.4,Carlos,Cartão,Cancelado
+743,2025-02-07,Cliente_158,Freio,680,550,3.8,Pedro,Pix,Cancelado
+744,2025-07-10,Cliente_99,Freio,527,499,1.6,Carlos,Pix,Concluído
+745,2025-04-29,Cliente_93,Troca de Óleo,324,389,4.3,Pedro,Pix,Cancelado
+746,2025-07-21,Cliente_19,Diagnóstico,967,355,1.2,João,Pix,Cancelado
+747,2025-11-05,Cliente_227,Freio,483,445,2.9,Marcos,Cartão,Concluído
+748,2025-03-29,Cliente_93,Suspensão,692,230,5.0,João,Cartão,Concluído
+749,2025-01-06,Cliente_122,Alinhamento,833,185,1.2,Pedro,Pix,Cancelado
+750,2025-11-22,Cliente_276,Suspensão,1027,441,2.9,João,Dinheiro,Cancelado
+751,2025-02-09,Cliente_81,Freio,380,643,3.3,João,Cartão,Concluído
+752,2025-10-22,Cliente_84,Alinhamento,1423,87,4.2,Pedro,Cartão,Cancelado
+753,2025-06-21,Cliente_142,Revisão,1079,337,1.4,João,Pix,Concluído
+754,2025-07-02,Cliente_160,Suspensão,1209,418,3.9,Marcos,Pix,Concluído
+755,2025-05-17,Cliente_159,Troca de Óleo,581,622,3.5,Pedro,Cartão,Cancelado
+756,2025-08-15,Cliente_27,Suspensão,200,432,2.2,João,Pix,Cancelado
+757,2025-07-09,Cliente_70,Alinhamento,1406,269,2.8,Pedro,Cartão,Cancelado
+758,2025-04-12,Cliente_118,Suspensão,153,426,1.8,Marcos,Pix,Cancelado
+759,2025-11-16,Cliente_226,Revisão,623,720,4.0,João,Dinheiro,Concluído
+760,2025-07-02,Cliente_200,Revisão,1259,115,4.8,João,Dinheiro,Cancelado
+761,2025-10-27,Cliente_230,Suspensão,1005,667,2.4,João,Pix,Concluído
+762,2025-07-14,Cliente_92,Suspensão,732,450,1.2,João,Cartão,Concluído
+763,2025-11-25,Cliente_31,Diagnóstico,259,266,4.6,João,Dinheiro,Cancelado
+764,2025-02-20,Cliente_44,Alinhamento,1220,671,3.6,Carlos,Pix,Cancelado
+765,2025-09-18,Cliente_121,Freio,1376,800,3.6,Pedro,Cartão,Cancelado
+766,2025-05-17,Cliente_115,Alinhamento,738,764,2.3,Marcos,Dinheiro,Cancelado
+767,2025-10-02,Cliente_47,Troca de Óleo,376,760,1.1,Pedro,Cartão,Concluído
+768,2025-02-25,Cliente_32,Diagnóstico,639,388,2.9,Marcos,Cartão,Cancelado
+769,2025-02-22,Cliente_50,Revisão,1418,599,3.6,Marcos,Cartão,Cancelado
+770,2025-07-08,Cliente_176,Alinhamento,316,133,2.3,Pedro,Cartão,Cancelado
+771,2025-12-30,Cliente_153,Diagnóstico,1172,593,3.8,Pedro,Cartão,Concluído
+772,2025-03-19,Cliente_43,Revisão,1358,140,1.5,Marcos,Pix,Concluído
+773,2025-03-02,Cliente_174,Revisão,1234,749,1.1,Marcos,Cartão,Concluído
+774,2025-11-02,Cliente_148,Diagnóstico,1214,173,5.0,Marcos,Pix,Cancelado
+775,2025-02-21,Cliente_231,Freio,766,330,3.7,João,Dinheiro,Concluído
+776,2025-08-29,Cliente_297,Alinhamento,734,143,1.7,Pedro,Pix,Cancelado
+777,2025-06-05,Cliente_197,Freio,963,676,3.8,Carlos,Dinheiro,Cancelado
+778,2025-06-11,Cliente_131,Alinhamento,1485,706,1.4,João,Pix,Cancelado
+779,2025-02-01,Cliente_133,Freio,1058,544,1.8,Carlos,Pix,Concluído
+780,2025-06-16,Cliente_245,Troca de Óleo,493,322,3.1,Marcos,Pix,Concluído
+781,2025-12-27,Cliente_256,Troca de Óleo,538,799,4.5,Carlos,Dinheiro,Concluído
+782,2025-02-02,Cliente_13,Troca de Óleo,455,602,1.9,Marcos,Pix,Cancelado
+783,2025-08-22,Cliente_272,Diagnóstico,452,639,1.9,João,Dinheiro,Cancelado
+784,2025-07-27,Cliente_70,Revisão,890,742,4.5,Marcos,Cartão,Cancelado
+785,2025-03-22,Cliente_173,Revisão,817,768,2.1,Marcos,Pix,Cancelado
+786,2025-08-04,Cliente_135,Alinhamento,533,790,1.2,Marcos,Cartão,Cancelado
+787,2025-06-09,Cliente_97,Freio,1033,663,4.0,Marcos,Pix,Cancelado
+788,2025-02-24,Cliente_236,Suspensão,844,405,1.9,Pedro,Pix,Concluído
+789,2025-01-16,Cliente_240,Diagnóstico,262,506,2.3,Carlos,Pix,Concluído
+790,2025-04-10,Cliente_132,Freio,1042,167,2.2,Marcos,Cartão,Cancelado
+791,2025-12-10,Cliente_283,Revisão,1036,552,4.0,João,Cartão,Cancelado
+792,2025-02-05,Cliente_135,Revisão,1185,531,2.5,João,Pix,Cancelado
+793,2025-05-01,Cliente_242,Troca de Óleo,895,753,1.9,João,Pix,Cancelado
+794,2025-06-29,Cliente_189,Suspensão,688,115,2.2,João,Dinheiro,Concluído
+795,2025-09-16,Cliente_1,Diagnóstico,244,247,3.8,Pedro,Dinheiro,Cancelado
+796,2025-12-18,Cliente_4,Revisão,1157,567,2.0,Pedro,Pix,Concluído
+797,2025-04-25,Cliente_290,Revisão,744,759,1.3,Marcos,Pix,Cancelado
+798,2025-07-28,Cliente_294,Revisão,1131,390,4.8,Pedro,Dinheiro,Cancelado
+799,2025-09-29,Cliente_107,Suspensão,499,515,3.1,Pedro,Pix,Concluído
+800,2025-02-09,Cliente_137,Troca de Óleo,647,458,1.5,Carlos,Dinheiro,Cancelado
+801,2025-03-28,Cliente_202,Revisão,544,689,1.1,Marcos,Cartão,Concluído
+802,2025-11-28,Cliente_225,Troca de Óleo,654,183,2.5,João,Dinheiro,Cancelado
+803,2025-12-29,Cliente_249,Freio,795,214,1.3,João,Dinheiro,Cancelado
+804,2025-02-14,Cliente_195,Freio,851,548,1.0,Pedro,Dinheiro,Cancelado
+805,2025-11-24,Cliente_262,Diagnóstico,449,513,3.5,Carlos,Cartão,Cancelado
+806,2025-07-15,Cliente_61,Freio,573,507,3.6,Carlos,Cartão,Concluído
+807,2025-08-18,Cliente_37,Troca de Óleo,416,193,1.6,Marcos,Pix,Concluído
+808,2025-12-05,Cliente_6,Troca de Óleo,882,589,3.4,João,Cartão,Cancelado
+809,2025-07-11,Cliente_268,Freio,1027,534,2.0,Pedro,Dinheiro,Concluído
+810,2025-11-07,Cliente_222,Suspensão,1215,257,3.4,Pedro,Dinheiro,Cancelado
+811,2025-06-10,Cliente_96,Suspensão,770,547,4.3,Pedro,Cartão,Cancelado
+812,2025-04-29,Cliente_149,Freio,1300,659,3.2,Marcos,Cartão,Cancelado
+813,2025-12-30,Cliente_92,Diagnóstico,602,310,4.4,Pedro,Pix,Cancelado
+814,2025-09-21,Cliente_120,Diagnóstico,853,465,4.0,João,Dinheiro,Concluído
+815,2025-06-04,Cliente_7,Alinhamento,513,304,1.8,Marcos,Cartão,Cancelado
+816,2025-09-03,Cliente_174,Alinhamento,250,422,3.4,Carlos,Dinheiro,Cancelado
+817,2025-07-08,Cliente_194,Revisão,1334,539,3.1,Marcos,Dinheiro,Concluído
+818,2025-09-18,Cliente_114,Troca de Óleo,609,210,1.5,Pedro,Dinheiro,Concluído
+819,2025-09-19,Cliente_280,Troca de Óleo,281,249,2.6,Carlos,Cartão,Concluído
+820,2025-10-17,Cliente_279,Revisão,1437,724,2.2,João,Cartão,Concluído
+821,2025-03-06,Cliente_154,Troca de Óleo,206,135,1.5,Carlos,Dinheiro,Concluído
+822,2025-09-10,Cliente_100,Alinhamento,830,563,1.2,Pedro,Cartão,Cancelado
+823,2025-06-09,Cliente_276,Revisão,767,513,2.5,João,Cartão,Concluído
+824,2025-02-25,Cliente_62,Freio,1352,426,4.9,Pedro,Cartão,Concluído
+825,2025-10-02,Cliente_170,Revisão,447,645,4.5,Carlos,Pix,Concluído
+826,2025-02-11,Cliente_87,Freio,930,417,3.9,João,Cartão,Concluído
+827,2025-07-19,Cliente_23,Alinhamento,876,610,1.8,Carlos,Cartão,Concluído
+828,2025-09-12,Cliente_154,Freio,368,247,1.3,Carlos,Cartão,Concluído
+829,2025-06-27,Cliente_9,Diagnóstico,1004,168,4.8,João,Pix,Cancelado
+830,2025-12-16,Cliente_196,Freio,644,783,4.8,Marcos,Cartão,Cancelado
+831,2025-02-20,Cliente_56,Freio,211,662,1.6,Marcos,Cartão,Cancelado
+832,2025-08-14,Cliente_88,Diagnóstico,932,455,3.2,Carlos,Cartão,Concluído
+833,2025-12-04,Cliente_10,Suspensão,1216,270,1.5,Marcos,Dinheiro,Cancelado
+834,2025-10-10,Cliente_185,Suspensão,1231,794,3.0,João,Pix,Cancelado
+835,2025-12-24,Cliente_257,Freio,538,353,3.7,Pedro,Dinheiro,Concluído
+836,2025-12-14,Cliente_35,Revisão,221,680,1.8,Pedro,Cartão,Concluído
+837,2025-06-10,Cliente_228,Freio,1179,178,3.9,Carlos,Cartão,Cancelado
+838,2025-04-04,Cliente_23,Troca de Óleo,168,682,2.0,Pedro,Cartão,Concluído
+839,2025-01-14,Cliente_135,Alinhamento,1144,382,4.6,Pedro,Cartão,Concluído
+840,2025-01-08,Cliente_34,Alinhamento,513,476,2.7,João,Cartão,Concluído
+841,2025-04-22,Cliente_100,Diagnóstico,794,641,2.6,João,Cartão,Concluído
+842,2025-05-12,Cliente_153,Troca de Óleo,1051,592,4.1,João,Cartão,Cancelado
+843,2025-02-01,Cliente_253,Diagnóstico,955,655,1.2,Pedro,Pix,Cancelado
+844,2025-01-26,Cliente_110,Alinhamento,339,417,4.6,Marcos,Pix,Concluído
+845,2025-07-01,Cliente_8,Diagnóstico,1349,679,2.0,Pedro,Dinheiro,Cancelado
+846,2025-12-23,Cliente_62,Alinhamento,1169,482,3.8,Pedro,Dinheiro,Cancelado
+847,2025-06-10,Cliente_102,Suspensão,522,545,2.7,Marcos,Pix,Concluído
+848,2025-05-20,Cliente_125,Suspensão,1279,722,4.9,João,Pix,Concluído
+849,2025-09-29,Cliente_213,Suspensão,698,772,4.6,Pedro,Cartão,Concluído
+850,2025-06-21,Cliente_277,Freio,1138,571,4.4,Marcos,Pix,Concluído
+851,2025-06-01,Cliente_18,Diagnóstico,1280,501,2.8,Marcos,Cartão,Concluído
+852,2025-04-22,Cliente_169,Alinhamento,709,695,4.2,Pedro,Cartão,Concluído
+853,2025-03-10,Cliente_73,Freio,1435,139,4.0,Carlos,Cartão,Cancelado
+854,2025-05-29,Cliente_250,Alinhamento,683,638,4.5,Marcos,Cartão,Cancelado
+855,2025-11-21,Cliente_114,Troca de Óleo,545,312,3.6,Marcos,Pix,Concluído
+856,2025-04-16,Cliente_246,Freio,1448,485,4.3,João,Cartão,Cancelado
+857,2025-03-02,Cliente_175,Freio,1080,514,2.4,Marcos,Cartão,Concluído
+858,2025-01-23,Cliente_131,Alinhamento,649,629,4.5,Marcos,Cartão,Cancelado
+859,2025-12-20,Cliente_245,Suspensão,377,710,4.3,Pedro,Dinheiro,Cancelado
+860,2025-09-02,Cliente_160,Alinhamento,345,103,3.7,Pedro,Dinheiro,Cancelado
+861,2025-12-22,Cliente_76,Freio,1236,135,2.2,João,Pix,Concluído
+862,2025-05-24,Cliente_81,Troca de Óleo,1027,563,3.1,Pedro,Cartão,Concluído
+863,2025-03-16,Cliente_299,Freio,924,95,4.3,João,Cartão,Concluído
+864,2025-09-04,Cliente_175,Revisão,1086,630,2.1,Marcos,Dinheiro,Cancelado
+865,2025-03-05,Cliente_49,Diagnóstico,245,729,4.7,Marcos,Pix,Cancelado
+866,2025-01-01,Cliente_100,Revisão,329,577,1.4,Marcos,Cartão,Concluído
+867,2025-08-18,Cliente_246,Revisão,619,433,1.5,Carlos,Cartão,Cancelado
+868,2025-04-03,Cliente_193,Freio,1337,171,2.3,Carlos,Cartão,Cancelado
+869,2025-02-08,Cliente_165,Diagnóstico,1296,588,1.1,Carlos,Dinheiro,Concluído
+870,2025-09-07,Cliente_276,Suspensão,470,287,3.8,Marcos,Pix,Concluído
+871,2025-11-08,Cliente_72,Revisão,466,343,3.2,João,Cartão,Cancelado
+872,2025-06-20,Cliente_264,Alinhamento,520,543,4.9,João,Pix,Cancelado
+873,2025-07-29,Cliente_53,Revisão,933,644,3.3,Pedro,Pix,Cancelado
+874,2025-11-22,Cliente_25,Freio,570,405,2.3,Marcos,Dinheiro,Concluído
+875,2025-06-29,Cliente_55,Revisão,497,75,2.6,João,Dinheiro,Concluído
+876,2025-07-27,Cliente_154,Alinhamento,993,58,4.5,Carlos,Dinheiro,Cancelado
+877,2025-03-17,Cliente_230,Diagnóstico,684,366,4.8,Marcos,Dinheiro,Cancelado
+878,2025-10-17,Cliente_243,Revisão,770,240,4.7,Pedro,Dinheiro,Concluído
+879,2025-08-20,Cliente_119,Suspensão,327,381,3.8,João,Pix,Cancelado
+880,2025-01-07,Cliente_48,Alinhamento,1288,400,3.6,João,Dinheiro,Concluído
+881,2025-05-08,Cliente_85,Freio,361,656,1.6,Carlos,Pix,Cancelado
+882,2025-04-24,Cliente_52,Diagnóstico,182,540,4.2,João,Pix,Cancelado
+883,2025-07-01,Cliente_285,Troca de Óleo,1466,384,2.7,João,Pix,Concluído
+884,2025-03-23,Cliente_299,Troca de Óleo,490,561,1.7,Pedro,Cartão,Concluído
+885,2025-04-26,Cliente_157,Diagnóstico,427,97,4.5,Carlos,Pix,Cancelado
+886,2025-06-12,Cliente_87,Alinhamento,517,761,2.2,João,Pix,Cancelado
+887,2025-03-23,Cliente_169,Freio,1496,349,4.4,Pedro,Pix,Concluído
+888,2025-12-20,Cliente_62,Suspensão,760,702,4.3,Carlos,Cartão,Cancelado
+889,2025-06-30,Cliente_105,Freio,1405,700,1.2,João,Dinheiro,Concluído
+890,2025-12-21,Cliente_25,Troca de Óleo,1220,179,3.0,Pedro,Dinheiro,Cancelado
+891,2025-11-03,Cliente_28,Alinhamento,1300,190,4.4,Marcos,Cartão,Cancelado
+892,2025-01-07,Cliente_104,Freio,1253,523,4.0,Pedro,Dinheiro,Cancelado
+893,2025-11-27,Cliente_120,Troca de Óleo,1414,677,1.1,Marcos,Pix,Concluído
+894,2025-10-02,Cliente_144,Diagnóstico,619,653,2.9,João,Cartão,Cancelado
+895,2025-01-06,Cliente_17,Revisão,1410,546,4.6,Carlos,Pix,Cancelado
+896,2025-09-08,Cliente_26,Revisão,1038,592,3.0,Pedro,Pix,Concluído
+897,2025-05-29,Cliente_241,Revisão,1094,784,3.1,João,Cartão,Concluído
+898,2025-08-25,Cliente_93,Alinhamento,1228,459,2.8,Carlos,Dinheiro,Concluído
+899,2025-05-11,Cliente_123,Suspensão,1125,531,1.6,Pedro,Cartão,Concluído
+900,2025-07-02,Cliente_291,Troca de Óleo,541,198,3.3,Marcos,Pix,Cancelado
+901,2025-05-22,Cliente_236,Freio,287,319,2.8,João,Dinheiro,Cancelado
+902,2025-09-13,Cliente_19,Freio,674,70,2.4,Marcos,Cartão,Concluído
+903,2025-03-26,Cliente_270,Troca de Óleo,859,533,1.9,Carlos,Cartão,Cancelado
+904,2025-03-30,Cliente_167,Diagnóstico,1228,588,2.9,João,Cartão,Concluído
+905,2025-11-17,Cliente_71,Troca de Óleo,1265,451,4.7,Carlos,Pix,Concluído
+906,2025-05-02,Cliente_174,Suspensão,1147,554,3.1,Carlos,Dinheiro,Cancelado
+907,2025-03-23,Cliente_108,Alinhamento,334,743,2.9,Pedro,Dinheiro,Concluído
+908,2025-03-09,Cliente_264,Diagnóstico,226,644,3.7,Carlos,Pix,Cancelado
+909,2025-06-17,Cliente_117,Freio,206,538,4.4,Pedro,Dinheiro,Cancelado
+910,2025-09-09,Cliente_164,Troca de Óleo,340,132,4.0,Marcos,Pix,Cancelado
+911,2025-10-30,Cliente_1,Diagnóstico,621,455,4.9,Marcos,Dinheiro,Concluído
+912,2025-11-01,Cliente_256,Troca de Óleo,890,123,3.3,Marcos,Dinheiro,Cancelado
+913,2025-04-15,Cliente_79,Troca de Óleo,212,412,3.8,João,Cartão,Concluído
+914,2025-08-16,Cliente_287,Diagnóstico,1163,279,1.4,Pedro,Dinheiro,Cancelado
+915,2025-08-11,Cliente_127,Suspensão,1039,648,2.8,Carlos,Pix,Cancelado
+916,2025-01-10,Cliente_251,Alinhamento,1346,653,4.4,João,Cartão,Cancelado
+917,2025-09-04,Cliente_272,Alinhamento,932,799,2.2,Marcos,Pix,Cancelado
+918,2025-01-23,Cliente_169,Suspensão,649,769,1.0,Marcos,Cartão,Cancelado
+919,2025-12-11,Cliente_167,Diagnóstico,884,560,1.1,Carlos,Dinheiro,Concluído
+920,2025-12-09,Cliente_237,Freio,928,485,1.7,Carlos,Pix,Concluído
+921,2025-05-06,Cliente_52,Diagnóstico,458,651,4.5,Pedro,Dinheiro,Concluído
+922,2025-02-22,Cliente_110,Freio,1466,584,5.0,Carlos,Pix,Cancelado
+923,2025-12-09,Cliente_228,Alinhamento,685,179,4.1,João,Cartão,Cancelado
+924,2025-01-18,Cliente_243,Suspensão,980,414,3.7,Carlos,Cartão,Cancelado
+925,2025-04-14,Cliente_81,Revisão,509,142,2.1,João,Dinheiro,Cancelado
+926,2025-03-14,Cliente_114,Revisão,847,348,2.3,Carlos,Pix,Cancelado
+927,2025-12-16,Cliente_293,Alinhamento,391,595,2.6,Pedro,Pix,Cancelado
+928,2025-02-19,Cliente_199,Freio,872,588,2.1,Carlos,Dinheiro,Concluído
+929,2025-10-11,Cliente_210,Alinhamento,616,53,2.5,Pedro,Dinheiro,Concluído
+930,2025-08-12,Cliente_297,Alinhamento,1150,756,4.6,João,Pix,Cancelado
+931,2025-08-19,Cliente_221,Diagnóstico,397,109,4.7,Marcos,Dinheiro,Cancelado
+932,2025-05-28,Cliente_291,Alinhamento,782,664,4.6,Marcos,Pix,Concluído
+933,2025-11-30,Cliente_295,Freio,1078,680,3.6,Carlos,Cartão,Cancelado
+934,2025-01-18,Cliente_84,Revisão,1055,626,3.7,Carlos,Pix,Concluído
+935,2025-09-03,Cliente_95,Revisão,1441,686,1.8,Carlos,Dinheiro,Cancelado
+936,2025-09-19,Cliente_180,Freio,278,665,4.9,Marcos,Dinheiro,Concluído
+937,2025-12-22,Cliente_84,Freio,1432,282,1.4,Pedro,Dinheiro,Concluído
+938,2025-02-16,Cliente_264,Diagnóstico,885,367,4.6,Pedro,Cartão,Cancelado
+939,2025-06-10,Cliente_280,Revisão,321,555,3.9,Pedro,Cartão,Concluído
+940,2025-02-26,Cliente_80,Diagnóstico,1407,486,4.2,Carlos,Pix,Concluído
+941,2025-04-12,Cliente_32,Suspensão,934,540,1.6,Pedro,Dinheiro,Cancelado
+942,2025-07-08,Cliente_19,Alinhamento,934,541,3.4,Carlos,Cartão,Cancelado
+943,2025-09-09,Cliente_185,Alinhamento,495,503,3.6,Pedro,Cartão,Concluído
+944,2025-10-16,Cliente_85,Diagnóstico,342,574,4.7,João,Dinheiro,Cancelado
+945,2025-02-25,Cliente_146,Alinhamento,1231,166,1.3,Marcos,Cartão,Cancelado
+946,2025-06-09,Cliente_296,Suspensão,1140,408,4.9,Carlos,Cartão,Concluído
+947,2025-12-22,Cliente_13,Diagnóstico,899,536,1.4,Carlos,Dinheiro,Cancelado
+948,2025-12-18,Cliente_18,Troca de Óleo,233,758,2.7,João,Pix,Concluído
+949,2025-05-09,Cliente_128,Freio,1021,192,4.9,Marcos,Pix,Concluído
+950,2025-03-24,Cliente_278,Freio,740,595,2.8,Pedro,Pix,Concluído
+951,2025-12-16,Cliente_15,Revisão,585,136,2.3,Carlos,Pix,Cancelado
+952,2025-08-22,Cliente_174,Revisão,220,380,1.4,João,Cartão,Concluído
+953,2025-07-05,Cliente_38,Troca de Óleo,708,708,1.3,Marcos,Cartão,Cancelado
+954,2025-02-12,Cliente_123,Troca de Óleo,708,89,3.3,Marcos,Dinheiro,Concluído
+955,2025-12-02,Cliente_140,Revisão,1222,561,2.9,Carlos,Pix,Concluído
+956,2025-06-24,Cliente_253,Alinhamento,708,697,1.3,João,Pix,Cancelado
+957,2025-04-12,Cliente_295,Suspensão,1192,113,1.6,Carlos,Cartão,Concluído
+958,2025-03-10,Cliente_23,Troca de Óleo,854,318,2.7,Marcos,Pix,Concluído
+959,2025-02-03,Cliente_299,Revisão,772,790,4.1,Pedro,Pix,Concluído
+960,2025-11-02,Cliente_80,Suspensão,1029,354,4.4,Carlos,Pix,Concluído
+961,2025-06-19,Cliente_126,Suspensão,1163,332,3.0,Pedro,Cartão,Concluído
+962,2025-03-26,Cliente_295,Troca de Óleo,915,122,2.3,João,Pix,Concluído
+963,2025-11-09,Cliente_192,Suspensão,314,800,4.2,Carlos,Pix,Concluído
+964,2025-01-25,Cliente_210,Alinhamento,384,200,4.3,Marcos,Dinheiro,Cancelado
+965,2025-04-17,Cliente_93,Suspensão,305,784,1.8,João,Cartão,Cancelado
+966,2025-06-21,Cliente_94,Freio,1354,693,2.8,João,Cartão,Cancelado
+967,2025-07-01,Cliente_191,Troca de Óleo,903,571,2.9,Carlos,Pix,Concluído
+968,2025-03-22,Cliente_252,Alinhamento,1360,256,4.0,Marcos,Pix,Concluído
+969,2025-01-07,Cliente_290,Freio,582,771,4.8,Marcos,Cartão,Cancelado
+970,2025-02-15,Cliente_10,Freio,1481,781,3.8,Marcos,Cartão,Concluído
+971,2025-10-24,Cliente_56,Troca de Óleo,995,308,1.1,João,Cartão,Cancelado
+972,2025-12-02,Cliente_137,Revisão,1391,327,2.5,Pedro,Pix,Concluído
+973,2025-08-12,Cliente_107,Diagnóstico,737,760,3.2,João,Dinheiro,Cancelado
+974,2025-07-04,Cliente_170,Revisão,1119,555,2.6,Carlos,Pix,Concluído
+975,2025-07-29,Cliente_233,Troca de Óleo,1354,797,3.2,Marcos,Cartão,Cancelado
+976,2025-01-25,Cliente_156,Diagnóstico,1154,741,4.7,Pedro,Dinheiro,Cancelado
+977,2025-05-16,Cliente_94,Diagnóstico,931,405,2.0,Carlos,Pix,Concluído
+978,2025-10-01,Cliente_101,Revisão,735,396,1.0,João,Dinheiro,Concluído
+979,2025-07-01,Cliente_27,Diagnóstico,1406,376,3.7,Marcos,Dinheiro,Cancelado
+980,2025-07-22,Cliente_278,Revisão,1402,489,1.0,Carlos,Pix,Concluído
+981,2025-07-29,Cliente_123,Alinhamento,669,733,3.2,João,Pix,Cancelado
+982,2025-07-08,Cliente_100,Alinhamento,924,78,1.6,Carlos,Pix,Cancelado
+983,2025-05-12,Cliente_299,Freio,1454,338,1.6,Marcos,Pix,Concluído
+984,2025-01-30,Cliente_128,Diagnóstico,1001,180,3.7,Carlos,Cartão,Cancelado
+985,2025-01-13,Cliente_190,Freio,154,646,2.4,Marcos,Dinheiro,Cancelado
+986,2025-03-18,Cliente_75,Alinhamento,1121,149,3.2,João,Pix,Concluído
+987,2025-01-26,Cliente_161,Freio,1310,379,4.4,Pedro,Pix,Concluído
+988,2025-01-04,Cliente_269,Diagnóstico,774,169,4.4,Carlos,Cartão,Cancelado
+989,2025-10-23,Cliente_158,Revisão,671,328,1.5,Carlos,Pix,Concluído
+990,2025-08-13,Cliente_105,Diagnóstico,1064,625,3.0,João,Pix,Concluído
+991,2025-10-20,Cliente_140,Revisão,1403,192,2.8,Marcos,Dinheiro,Concluído
+992,2025-11-19,Cliente_109,Freio,963,441,4.1,Pedro,Cartão,Cancelado
+993,2025-08-16,Cliente_195,Alinhamento,861,405,3.6,Carlos,Dinheiro,Concluído
+994,2025-12-08,Cliente_219,Revisão,1401,729,3.6,Pedro,Cartão,Cancelado
+995,2025-05-16,Cliente_3,Suspensão,351,279,1.6,Marcos,Pix,Concluído
+996,2025-10-10,Cliente_233,Suspensão,295,420,1.6,Pedro,Dinheiro,Concluído
+997,2025-05-04,Cliente_154,Freio,522,305,1.1,Carlos,Dinheiro,Cancelado
+998,2025-10-28,Cliente_96,Alinhamento,820,289,1.7,Pedro,Pix,Concluído
+999,2025-01-02,Cliente_203,Diagnóstico,899,118,2.3,Carlos,Dinheiro,Cancelado
+1000,2025-11-07,Cliente_195,Revisão,951,168,3.3,João,Dinheiro,Cancelado
